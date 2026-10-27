@@ -1,0 +1,6 @@
+{
+  "row": 145,
+  "drug": "Vanoxerine",
+  "cell_type": "B cells",
+  "selection": "Closest to median observed profile response norm; top pathways chosen by observed absolute mean logFC"
+}

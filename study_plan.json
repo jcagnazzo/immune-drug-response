@@ -1,0 +1,22 @@
+{
+  "question": "Can measured drug responses transfer to unmeasured immune-cell contexts?",
+  "outcome": "Benchmark-provided log2 fold change versus DMSO across all 5317 supplied genes",
+  "training": "Official train plus control labels: 306 profiles; controls are positive-control compounds",
+  "validation": "Official public_test: 96 profiles; hyperparameters selected by mean profile RMSE",
+  "final_test": "Official private_test: 151 profiles; no model selection or retuning using these labels",
+  "refit": "Refit selected models on all 402 development profiles before final evaluation",
+  "ridge_alphas": [0.1, 1.0, 10.0, 100.0],
+  "pca_ridge_control": "Same ridge alpha grid with training-only 24-component target PCA, added before any final-test scoring",
+  "torch_candidates": [
+    {"epochs": 100, "weight_decay": 0.05},
+    {"epochs": 250, "weight_decay": 0.05},
+    {"epochs": 100, "weight_decay": 0.2},
+    {"epochs": 250, "weight_decay": 0.2}
+  ],
+  "torch_fixed": {"hidden": 64, "n_components": 24, "learning_rate": 0.01, "seeds": [42, 43, 44]},
+  "primary_metric": "Mean across condition profiles of gene-wise RMSE",
+  "secondary_metrics": ["Pearson correlation of response profiles", "Top-50 absolute-effect gene overlap", "Sign agreement on the observed top-50 absolute-effect genes"],
+  "intervals": "Paired bootstrap over drugs, not individual genes or cells; 2000 replicates",
+  "active_learning": "Secondary offline study using development profiles only; fixed hidden evaluation set and a separate acquisition pool",
+  "boundaries": ["Processed benchmark outcomes include upstream joint preprocessing", "Donor-aggregated outcomes do not test donor generalization", "Known compounds and known cell types; new combinations only", "No tissue geometry or mechanistic cell-cell signaling", "No wet-lab or therapeutic validation", "Top-effect genes are not necessarily statistically significant genes"]
+}

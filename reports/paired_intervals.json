@@ -1,0 +1,67 @@
+[
+  {
+    "baseline": "No change",
+    "challenger": "Drug mean",
+    "mean_rmse_improvement": -0.033424367125153474,
+    "ci_low": -0.04409778173745732,
+    "ci_high": -0.022511633244929816,
+    "confidence": 0.95,
+    "n_drugs": 76,
+    "n_rows": 151,
+    "n_boot": 2000,
+    "seed": 42,
+    "estimand": "mean per-combination RMSE improvement, drug-cluster bootstrap"
+  },
+  {
+    "baseline": "Drug mean",
+    "challenger": "Additive ridge",
+    "mean_rmse_improvement": 0.05786029520050171,
+    "ci_low": 0.05262122158990856,
+    "ci_high": 0.0633226631397474,
+    "confidence": 0.95,
+    "n_drugs": 76,
+    "n_rows": 151,
+    "n_boot": 2000,
+    "seed": 42,
+    "estimand": "mean per-combination RMSE improvement, drug-cluster bootstrap"
+  },
+  {
+    "baseline": "Drug mean",
+    "challenger": "PyTorch ensemble",
+    "mean_rmse_improvement": 0.07072739423044166,
+    "ci_low": 0.06298295094610912,
+    "ci_high": 0.07899658827715,
+    "confidence": 0.95,
+    "n_drugs": 76,
+    "n_rows": 151,
+    "n_boot": 2000,
+    "seed": 42,
+    "estimand": "mean per-combination RMSE improvement, drug-cluster bootstrap"
+  },
+  {
+    "baseline": "Additive ridge",
+    "challenger": "PyTorch ensemble",
+    "mean_rmse_improvement": 0.012867099029939957,
+    "ci_low": 0.0037208149106619307,
+    "ci_high": 0.023262992422699445,
+    "confidence": 0.95,
+    "n_drugs": 76,
+    "n_rows": 151,
+    "n_boot": 2000,
+    "seed": 42,
+    "estimand": "mean per-combination RMSE improvement, drug-cluster bootstrap"
+  },
+  {
+    "baseline": "PCA ridge",
+    "challenger": "PyTorch ensemble",
+    "mean_rmse_improvement": 0.001309120857150011,
+    "ci_low": -0.0036293951754480117,
+    "ci_high": 0.00689106769297621,
+    "confidence": 0.95,
+    "n_drugs": 76,
+    "n_rows": 151,
+    "n_boot": 2000,
+    "seed": 42,
+    "estimand": "mean per-combination RMSE improvement, drug-cluster bootstrap"
+  }
+]

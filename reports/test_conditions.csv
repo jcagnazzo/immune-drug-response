@@ -1,0 +1,152 @@
+drug,cell_type,split
+TIE2 Kinase Inhibitor,B cells,private_test
+TIE2 Kinase Inhibitor,Myeloid cells,private_test
+Lapatinib,B cells,private_test
+Lapatinib,Myeloid cells,private_test
+Atorvastatin,B cells,private_test
+Atorvastatin,Myeloid cells,private_test
+Clomipramine,B cells,private_test
+Clomipramine,Myeloid cells,private_test
+Ixabepilone,B cells,private_test
+Ixabepilone,Myeloid cells,private_test
+Protriptyline,B cells,private_test
+Protriptyline,Myeloid cells,private_test
+Phenylbutazone,B cells,private_test
+Phenylbutazone,Myeloid cells,private_test
+K-02288,B cells,private_test
+K-02288,Myeloid cells,private_test
+BMS-777607,B cells,private_test
+BMS-777607,Myeloid cells,private_test
+Vorinostat,B cells,private_test
+Vorinostat,Myeloid cells,private_test
+Ruxolitinib,B cells,private_test
+Ruxolitinib,Myeloid cells,private_test
+AVL-292,B cells,private_test
+AVL-292,Myeloid cells,private_test
+Trametinib,B cells,private_test
+Trametinib,Myeloid cells,private_test
+Sgc-cbp30,B cells,private_test
+Sgc-cbp30,Myeloid cells,private_test
+Chlorpheniramine,B cells,private_test
+Chlorpheniramine,Myeloid cells,private_test
+BAY 61-3606,B cells,private_test
+BAY 61-3606,Myeloid cells,private_test
+LY2090314,B cells,private_test
+LY2090314,Myeloid cells,private_test
+Vardenafil,B cells,private_test
+Vardenafil,Myeloid cells,private_test
+Dasatinib,B cells,private_test
+Dasatinib,Myeloid cells,private_test
+AT13387,B cells,private_test
+AT13387,Myeloid cells,private_test
+Perhexiline,B cells,private_test
+Perhexiline,Myeloid cells,private_test
+RVX-208,B cells,private_test
+RVX-208,Myeloid cells,private_test
+Ketoconazole,B cells,private_test
+Ketoconazole,Myeloid cells,private_test
+Disulfiram,B cells,private_test
+Disulfiram,Myeloid cells,private_test
+Flutamide,B cells,private_test
+Flutamide,Myeloid cells,private_test
+Desloratadine,B cells,private_test
+Desloratadine,Myeloid cells,private_test
+BMS-536924,B cells,private_test
+BMS-536924,Myeloid cells,private_test
+IKK Inhibitor VII,B cells,private_test
+IKK Inhibitor VII,Myeloid cells,private_test
+Amiodarone,B cells,private_test
+Amiodarone,Myeloid cells,private_test
+IMD-0354,B cells,private_test
+IMD-0354,Myeloid cells,private_test
+Canertinib,B cells,private_test
+Alogliptin,B cells,private_test
+Alogliptin,Myeloid cells,private_test
+RN-486,B cells,private_test
+RN-486,Myeloid cells,private_test
+Decitabine,B cells,private_test
+Decitabine,Myeloid cells,private_test
+Cabozantinib,B cells,private_test
+Cabozantinib,Myeloid cells,private_test
+Defactinib,B cells,private_test
+Defactinib,Myeloid cells,private_test
+AZD3514,B cells,private_test
+AZD3514,Myeloid cells,private_test
+HMN-214,B cells,private_test
+HMN-214,Myeloid cells,private_test
+CC-401,B cells,private_test
+CC-401,Myeloid cells,private_test
+Resminostat,B cells,private_test
+Resminostat,Myeloid cells,private_test
+Nilotinib,B cells,private_test
+Nilotinib,Myeloid cells,private_test
+OSI-930,B cells,private_test
+OSI-930,Myeloid cells,private_test
+Saracatinib,B cells,private_test
+Saracatinib,Myeloid cells,private_test
+RG7112,B cells,private_test
+RG7112,Myeloid cells,private_test
+Lamivudine,B cells,private_test
+Lamivudine,Myeloid cells,private_test
+AZD-8330,B cells,private_test
+AZD-8330,Myeloid cells,private_test
+Ceritinib,B cells,private_test
+Ceritinib,Myeloid cells,private_test
+CGM-097,B cells,private_test
+CGM-097,Myeloid cells,private_test
+SLx-2119,B cells,private_test
+SLx-2119,Myeloid cells,private_test
+Nefazodone,B cells,private_test
+Nefazodone,Myeloid cells,private_test
+TPCA-1,B cells,private_test
+TPCA-1,Myeloid cells,private_test
+MGCD-265,B cells,private_test
+MGCD-265,Myeloid cells,private_test
+GSK-1070916,B cells,private_test
+GSK-1070916,Myeloid cells,private_test
+Bosutinib,B cells,private_test
+Bosutinib,Myeloid cells,private_test
+Clemastine,B cells,private_test
+Clemastine,Myeloid cells,private_test
+YK 4-279,B cells,private_test
+YK 4-279,Myeloid cells,private_test
+Buspirone,B cells,private_test
+Buspirone,Myeloid cells,private_test
+GSK256066,B cells,private_test
+GSK256066,Myeloid cells,private_test
+Vandetanib,B cells,private_test
+Vandetanib,Myeloid cells,private_test
+Imatinib,B cells,private_test
+Imatinib,Myeloid cells,private_test
+SCH-58261,B cells,private_test
+SCH-58261,Myeloid cells,private_test
+Colforsin,B cells,private_test
+Colforsin,Myeloid cells,private_test
+Tosedostat,B cells,private_test
+Tosedostat,Myeloid cells,private_test
+ABT-199 (GDC-0199),B cells,private_test
+ABT-199 (GDC-0199),Myeloid cells,private_test
+Mometasone Furoate,B cells,private_test
+Mometasone Furoate,Myeloid cells,private_test
+Tipifarnib,B cells,private_test
+Tipifarnib,Myeloid cells,private_test
+Doxorubicin,B cells,private_test
+Doxorubicin,Myeloid cells,private_test
+PF-03814735,B cells,private_test
+PF-03814735,Myeloid cells,private_test
+AZD4547,B cells,private_test
+AZD4547,Myeloid cells,private_test
+Prednisolone,B cells,private_test
+Prednisolone,Myeloid cells,private_test
+Tacalcitol,B cells,private_test
+Tacalcitol,Myeloid cells,private_test
+Clotrimazole,B cells,private_test
+Clotrimazole,Myeloid cells,private_test
+Mubritinib (TAK 165),B cells,private_test
+Mubritinib (TAK 165),Myeloid cells,private_test
+Vanoxerine,B cells,private_test
+Vanoxerine,Myeloid cells,private_test
+SB525334,B cells,private_test
+SB525334,Myeloid cells,private_test
+HYDROXYUREA,B cells,private_test
+HYDROXYUREA,Myeloid cells,private_test

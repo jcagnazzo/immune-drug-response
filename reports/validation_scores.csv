@@ -1,0 +1,1345 @@
+drug,cell_type,model,fold,rmse,pearson,top50_overlap,top50_sign_accuracy
+MK-5108,B cells,No change,validation,0.28787080076480664,,,0.0
+MK-5108,Myeloid cells,No change,validation,0.21015792749308215,,,0.0
+Ganetespib (STA-9090),B cells,No change,validation,0.845839354824027,,,0.0
+Ganetespib (STA-9090),Myeloid cells,No change,validation,0.9221593212443234,,,0.0
+Sunitinib,B cells,No change,validation,0.37262534343749776,,,0.0
+Sunitinib,Myeloid cells,No change,validation,0.23888804266503516,,,0.0
+Tivozanib,B cells,No change,validation,0.3649950458661751,,,0.0
+Tivozanib,Myeloid cells,No change,validation,0.22148637532502988,,,0.0
+Tamatinib,B cells,No change,validation,0.5376462758159177,,,0.0
+Tamatinib,Myeloid cells,No change,validation,0.7070196406456377,,,0.0
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,B cells,No change,validation,0.5633792388723219,,,0.0
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,Myeloid cells,No change,validation,0.7593487374479343,,,0.0
+I-BET151,B cells,No change,validation,0.5825430368815948,,,0.0
+I-BET151,Myeloid cells,No change,validation,0.5658969962169221,,,0.0
+GW843682X,B cells,No change,validation,0.27789619131081694,,,0.0
+GW843682X,Myeloid cells,No change,validation,0.20814877533497986,,,0.0
+IN1451,B cells,No change,validation,0.9893172779717272,,,0.0
+IN1451,Myeloid cells,No change,validation,0.95672490968356,,,0.0
+Raloxifene,B cells,No change,validation,0.31136854591848373,,,0.0
+Raloxifene,Myeloid cells,No change,validation,0.2748850316386663,,,0.0
+Topotecan,B cells,No change,validation,0.32035038006142,,,0.0
+Topotecan,Myeloid cells,No change,validation,0.37775239069557687,,,0.0
+BAY 87-2243,B cells,No change,validation,0.4091954580174047,,,0.0
+BAY 87-2243,Myeloid cells,No change,validation,0.3732269440485036,,,0.0
+TL_HRAS26,B cells,No change,validation,0.314749933651479,,,0.0
+TL_HRAS26,Myeloid cells,No change,validation,0.21901717810317486,,,0.0
+Proscillaridin A;Proscillaridin-A,B cells,No change,validation,0.6996563187678961,,,0.0
+BMS-265246,B cells,No change,validation,0.35901092251950867,,,0.0
+BMS-265246,Myeloid cells,No change,validation,0.3652050258314262,,,0.0
+Pomalidomide,B cells,No change,validation,0.3803867484731386,,,0.0
+Pomalidomide,Myeloid cells,No change,validation,0.27493697773585024,,,0.0
+Dovitinib,B cells,No change,validation,0.38185692310578667,,,0.0
+Dovitinib,Myeloid cells,No change,validation,0.29356615180955353,,,0.0
+Navitoclax,B cells,No change,validation,0.5827131606418302,,,0.0
+Navitoclax,Myeloid cells,No change,validation,0.26661041344689734,,,0.0
+Methotrexate,B cells,No change,validation,0.26668817647772447,,,0.0
+Methotrexate,Myeloid cells,No change,validation,0.22046146906122716,,,0.0
+AMD-070 (hydrochloride),B cells,No change,validation,0.32692324246865523,,,0.0
+AMD-070 (hydrochloride),Myeloid cells,No change,validation,0.24520534859018928,,,0.0
+FK 866,B cells,No change,validation,0.3484205717745834,,,0.0
+FK 866,Myeloid cells,No change,validation,0.3420399102307595,,,0.0
+Scriptaid,B cells,No change,validation,0.672556446951314,,,0.0
+Scriptaid,Myeloid cells,No change,validation,0.6598709420097052,,,0.0
+PF-04691502,B cells,No change,validation,0.5271963868231916,,,0.0
+Isoniazid,B cells,No change,validation,0.3038324084200688,,,0.0
+Isoniazid,Myeloid cells,No change,validation,0.21430255543314042,,,0.0
+Quizartinib,B cells,No change,validation,0.2772865491164207,,,0.0
+Quizartinib,Myeloid cells,No change,validation,0.24316561276184376,,,0.0
+PD-0325901,B cells,No change,validation,0.36993885221111267,,,0.0
+PD-0325901,Myeloid cells,No change,validation,0.43014828146975387,,,0.0
+Riociguat,B cells,No change,validation,0.28431850841303113,,,0.0
+Riociguat,Myeloid cells,No change,validation,0.1919178661574177,,,0.0
+BI-D1870,B cells,No change,validation,0.31127748293831536,,,0.0
+BI-D1870,Myeloid cells,No change,validation,0.2524657317824268,,,0.0
+Azacitidine,B cells,No change,validation,0.2931017247853249,,,0.0
+Azacitidine,Myeloid cells,No change,validation,0.20366078216059427,,,0.0
+TR-14035,B cells,No change,validation,0.31336633778476275,,,0.0
+TR-14035,Myeloid cells,No change,validation,0.21266934311776778,,,0.0
+AT 7867,B cells,No change,validation,0.3258151474440507,,,0.0
+AT 7867,Myeloid cells,No change,validation,0.3325431494288647,,,0.0
+GO-6976,B cells,No change,validation,0.3466159512666747,,,0.0
+GO-6976,Myeloid cells,No change,validation,0.3250965115574689,,,0.0
+TGX 221,B cells,No change,validation,0.3721192461843796,,,0.0
+TGX 221,Myeloid cells,No change,validation,0.294256062702089,,,0.0
+Pitavastatin Calcium,B cells,No change,validation,0.4129634880268588,,,0.0
+Pitavastatin Calcium,Myeloid cells,No change,validation,0.6916961689340756,,,0.0
+ABT737,B cells,No change,validation,0.6739961212016196,,,0.0
+ABT737,Myeloid cells,No change,validation,0.2458293155361135,,,0.0
+PRT-062607,B cells,No change,validation,0.5268418329166932,,,0.0
+PRT-062607,Myeloid cells,No change,validation,0.5423931397623434,,,0.0
+AZ628,B cells,No change,validation,0.42546055527086907,,,0.0
+AZ628,Myeloid cells,No change,validation,0.3979783545116534,,,0.0
+Masitinib,B cells,No change,validation,0.3328930698846427,,,0.0
+Masitinib,Myeloid cells,No change,validation,0.24439505915330872,,,0.0
+STK219801,B cells,No change,validation,0.30127060084971713,,,0.0
+STK219801,Myeloid cells,No change,validation,0.20771005563251962,,,0.0
+Ricolinostat,B cells,No change,validation,0.338797195028846,,,0.0
+Ricolinostat,Myeloid cells,No change,validation,0.2893801388804729,,,0.0
+Midostaurin,B cells,No change,validation,0.4017418922391386,,,0.0
+Midostaurin,Myeloid cells,No change,validation,0.3516004796666115,,,0.0
+CEP-37440,B cells,No change,validation,0.301829802449225,,,0.0
+CEP-37440,Myeloid cells,No change,validation,0.23014271323563734,,,0.0
+Oxybenzone,B cells,No change,validation,0.2885200118715027,,,0.0
+Oxybenzone,Myeloid cells,No change,validation,0.19919458000127338,,,0.0
+Tivantinib,B cells,No change,validation,0.34833304782651553,,,0.0
+Tivantinib,Myeloid cells,No change,validation,0.25979288260189987,,,0.0
+Colchicine,B cells,No change,validation,0.487771094732305,,,0.0
+Colchicine,Myeloid cells,No change,validation,0.8212669604043169,,,0.0
+BX 912,B cells,No change,validation,0.35730221852534966,,,0.0
+BX 912,Myeloid cells,No change,validation,0.28407427587643963,,,0.0
+Selumetinib,B cells,No change,validation,0.38263214472517904,,,0.0
+Selumetinib,Myeloid cells,No change,validation,0.3663305138801396,,,0.0
+RG7090,B cells,No change,validation,0.3054544861056618,,,0.0
+RG7090,Myeloid cells,No change,validation,0.25401718890054853,,,0.0
+GLPG0634,B cells,No change,validation,0.41762080671745094,,,0.0
+GLPG0634,Myeloid cells,No change,validation,0.3583477108466919,,,0.0
+MK-5108,B cells,Drug mean,validation,0.34270855795060096,0.14799526096137092,0.18,0.54
+MK-5108,Myeloid cells,Drug mean,validation,0.27050603206389895,0.25870873454472293,0.26,0.66
+Ganetespib (STA-9090),B cells,Drug mean,validation,0.6581560349164767,0.6303883256684448,0.34,1.0
+Ganetespib (STA-9090),Myeloid cells,Drug mean,validation,0.896615226392816,0.3702277932856295,0.24,0.8
+Sunitinib,B cells,Drug mean,validation,0.40608061643184595,0.21008564960253154,0.1,0.58
+Sunitinib,Myeloid cells,Drug mean,validation,0.31448997721580557,0.20234466574324955,0.2,0.78
+Tivozanib,B cells,Drug mean,validation,0.40071416881232713,0.15708898019183512,0.08,0.74
+Tivozanib,Myeloid cells,Drug mean,validation,0.3025276891867072,0.1123943594765442,0.02,0.58
+Tamatinib,B cells,Drug mean,validation,0.4723951759858958,0.513121822235132,0.5,0.9
+Tamatinib,Myeloid cells,Drug mean,validation,0.6519041850970072,0.40550453611790754,0.26,0.88
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,B cells,Drug mean,validation,0.48901381251638704,0.5118386583025958,0.34,0.9
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,Myeloid cells,Drug mean,validation,0.7112345956710937,0.365861988033708,0.08,0.78
+I-BET151,B cells,Drug mean,validation,0.4848274851350164,0.601969237960703,0.34,1.0
+I-BET151,Myeloid cells,Drug mean,validation,0.5532330500639022,0.46487731254042314,0.22,0.9
+GW843682X,B cells,Drug mean,validation,0.32876543437608347,0.12485643863912002,0.14,0.66
+GW843682X,Myeloid cells,Drug mean,validation,0.282222777997203,0.10528067064758996,0.08,0.48
+IN1451,B cells,Drug mean,validation,0.7164066113210383,0.702410555578432,0.22,1.0
+IN1451,Myeloid cells,Drug mean,validation,0.777175379297809,0.6379227420902013,0.2,0.88
+Raloxifene,B cells,Drug mean,validation,0.39623733230573066,0.10685516786866384,0.08,0.58
+Raloxifene,Myeloid cells,Drug mean,validation,0.37409183458054107,0.09499350611787427,0.12,0.44
+Topotecan,B cells,Drug mean,validation,0.34864915866013596,0.33026130383929103,0.2,0.66
+Topotecan,Myeloid cells,Drug mean,validation,0.39452592365640127,0.31034260945549597,0.24,0.68
+BAY 87-2243,B cells,Drug mean,validation,0.41385983669933296,0.41129577401708994,0.24,0.84
+BAY 87-2243,Myeloid cells,Drug mean,validation,0.44375095621196825,0.2499817373246339,0.16,0.56
+TL_HRAS26,B cells,Drug mean,validation,0.3595585431135416,0.11410200166461182,0.04,0.64
+TL_HRAS26,Myeloid cells,Drug mean,validation,0.2853860272107696,0.12695221771879936,0.06,0.7
+Proscillaridin A;Proscillaridin-A,B cells,Drug mean,validation,0.5735385381178013,0.715729995579716,0.28,0.92
+BMS-265246,B cells,Drug mean,validation,0.3481951462353325,0.47727746849609015,0.14,0.88
+BMS-265246,Myeloid cells,Drug mean,validation,0.39294478301725416,0.347527934538924,0.06,0.72
+Pomalidomide,B cells,Drug mean,validation,0.3806496644436855,0.40293638240911694,0.26,0.84
+Pomalidomide,Myeloid cells,Drug mean,validation,0.3675934559711726,0.20717183316856658,0.08,0.76
+Dovitinib,B cells,Drug mean,validation,0.4061344633194856,0.3041974568039887,0.32,0.86
+Dovitinib,Myeloid cells,Drug mean,validation,0.3839098542118524,0.15062674494576916,0.18,0.66
+Navitoclax,B cells,Drug mean,validation,0.6079036983231558,0.1486217042466765,0.1,0.64
+Navitoclax,Myeloid cells,Drug mean,validation,0.3569607757829325,0.14838553656951145,0.06,0.62
+Methotrexate,B cells,Drug mean,validation,0.29705213379232503,0.18964821921045186,0.14,0.6
+Methotrexate,Myeloid cells,Drug mean,validation,0.2733318884387764,0.12374157018648822,0.18,0.7
+AMD-070 (hydrochloride),B cells,Drug mean,validation,0.3710759442754486,0.13707755920444678,0.06,0.76
+AMD-070 (hydrochloride),Myeloid cells,Drug mean,validation,0.29782769697877126,0.20099428654513538,0.24,0.68
+FK 866,B cells,Drug mean,validation,0.40755876581666417,0.20778646163699735,0.06,0.74
+FK 866,Myeloid cells,Drug mean,validation,0.39788540072353257,0.24336952782054308,0.04,0.58
+Scriptaid,B cells,Drug mean,validation,0.4779933114902031,0.7152523318367698,0.42,0.98
+Scriptaid,Myeloid cells,Drug mean,validation,0.6464777355486068,0.4618579506999408,0.2,0.88
+PF-04691502,B cells,Drug mean,validation,0.5090858325689873,0.3713089872524621,0.28,0.82
+Isoniazid,B cells,Drug mean,validation,0.37070244012901554,0.06560454577955221,0.06,0.54
+Isoniazid,Myeloid cells,Drug mean,validation,0.3009566602989015,0.10024070141337603,0.0,0.62
+Quizartinib,B cells,Drug mean,validation,0.33403003548330945,0.10125413794080654,0.06,0.68
+Quizartinib,Myeloid cells,Drug mean,validation,0.312636365938299,0.0824503110723245,0.08,0.56
+PD-0325901,B cells,Drug mean,validation,0.41153554875053516,0.28736469870226483,0.22,0.76
+PD-0325901,Myeloid cells,Drug mean,validation,0.4935849173985884,0.15170645892787518,0.12,0.64
+Riociguat,B cells,Drug mean,validation,0.3465945887642243,0.0492524395481288,0.06,0.54
+Riociguat,Myeloid cells,Drug mean,validation,0.26685202569381283,0.1342325056478243,0.1,0.66
+BI-D1870,B cells,Drug mean,validation,0.38218787756335665,0.1315214084458924,0.08,0.6
+BI-D1870,Myeloid cells,Drug mean,validation,0.3355927367761526,0.16024375685262643,0.08,0.54
+Azacitidine,B cells,Drug mean,validation,0.33590884380278835,0.1930027768798122,0.02,0.58
+Azacitidine,Myeloid cells,Drug mean,validation,0.27034283194473757,0.22869473325879766,0.2,0.68
+TR-14035,B cells,Drug mean,validation,0.350108368487564,0.18312494291551856,0.08,0.52
+TR-14035,Myeloid cells,Drug mean,validation,0.27966394531784355,0.1773287497213352,0.12,0.58
+AT 7867,B cells,Drug mean,validation,0.35033943679095636,0.3267720910902329,0.4,0.76
+AT 7867,Myeloid cells,Drug mean,validation,0.38164590098446627,0.2178443760592735,0.28,0.62
+GO-6976,B cells,Drug mean,validation,0.41531930899372194,0.16820669430628643,0.06,0.5
+GO-6976,Myeloid cells,Drug mean,validation,0.37277677517994096,0.27377217911435725,0.08,0.86
+TGX 221,B cells,Drug mean,validation,0.38579850945652755,0.3425906603159351,0.2,0.76
+TGX 221,Myeloid cells,Drug mean,validation,0.34891775905604816,0.2880417937559877,0.12,0.76
+Pitavastatin Calcium,B cells,Drug mean,validation,0.44372729609102507,0.49448047565150255,0.22,0.9
+Pitavastatin Calcium,Myeloid cells,Drug mean,validation,0.6367479456420148,0.4537111419228983,0.3,0.88
+ABT737,B cells,Drug mean,validation,0.7062317922356144,0.08194287230775774,0.14,0.62
+ABT737,Myeloid cells,Drug mean,validation,0.3574197043939834,0.059688241405501226,0.1,0.44
+PRT-062607,B cells,Drug mean,validation,0.46785561047359236,0.4871491810574816,0.38,0.94
+PRT-062607,Myeloid cells,Drug mean,validation,0.5409143724284668,0.3200993229931845,0.12,0.68
+AZ628,B cells,Drug mean,validation,0.41823453172415875,0.3691174408680122,0.2,0.84
+AZ628,Myeloid cells,Drug mean,validation,0.4377167053829689,0.22221631625976143,0.08,0.68
+Masitinib,B cells,Drug mean,validation,0.3651668376433009,0.21878889708606017,0.18,0.62
+Masitinib,Myeloid cells,Drug mean,validation,0.2806062708260397,0.3275800551946154,0.42,0.88
+STK219801,B cells,Drug mean,validation,0.34452713625205056,0.15780702561171447,0.04,0.46
+STK219801,Myeloid cells,Drug mean,validation,0.27236238258391976,0.19656873925774598,0.14,0.6
+Ricolinostat,B cells,Drug mean,validation,0.35898059824275635,0.3659440692215402,0.34,0.88
+Ricolinostat,Myeloid cells,Drug mean,validation,0.32957494539533866,0.36478716552541046,0.38,0.76
+Midostaurin,B cells,Drug mean,validation,0.42332691603635064,0.3443588232185618,0.36,0.84
+Midostaurin,Myeloid cells,Drug mean,validation,0.3766148868256094,0.387856025196674,0.44,0.9
+CEP-37440,B cells,Drug mean,validation,0.3391576175029193,0.22289944403305073,0.18,0.66
+CEP-37440,Myeloid cells,Drug mean,validation,0.30699450148583474,0.1305398256216194,0.08,0.64
+Oxybenzone,B cells,Drug mean,validation,0.3400742254526525,0.13365446012575585,0.12,0.64
+Oxybenzone,Myeloid cells,Drug mean,validation,0.26843505002809653,0.19443054081469818,0.24,0.74
+Tivantinib,B cells,Drug mean,validation,0.3934646374860879,0.21868085571341325,0.12,0.52
+Tivantinib,Myeloid cells,Drug mean,validation,0.3185515548683442,0.2896659307237617,0.36,0.86
+Colchicine,B cells,Drug mean,validation,0.48896732789205877,0.2828500314353108,0.2,0.8
+Colchicine,Myeloid cells,Drug mean,validation,0.7993974823308686,0.2507379563611013,0.1,0.6
+BX 912,B cells,Drug mean,validation,0.39875833558001766,0.29375498832641944,0.28,0.8
+BX 912,Myeloid cells,Drug mean,validation,0.36155335349554213,0.2586461526347832,0.32,0.76
+Selumetinib,B cells,Drug mean,validation,0.4125769304508713,0.24884162994384643,0.18,0.62
+Selumetinib,Myeloid cells,Drug mean,validation,0.41406827412690816,0.19097002689366133,0.12,0.72
+RG7090,B cells,Drug mean,validation,0.36302865620390246,0.21049389640018917,0.16,0.74
+RG7090,Myeloid cells,Drug mean,validation,0.32953827528871005,0.2132007168294169,0.14,0.6
+GLPG0634,B cells,Drug mean,validation,0.4012365806866881,0.4350557467175068,0.48,0.96
+GLPG0634,Myeloid cells,Drug mean,validation,0.38352754419893603,0.3639560049534331,0.46,0.86
+MK-5108,B cells,Ridge alpha=0.1,validation,0.3441542020709494,0.21627488975803022,0.2,0.62
+MK-5108,Myeloid cells,Ridge alpha=0.1,validation,0.2911433300613116,0.22762555286937206,0.26,0.56
+Ganetespib (STA-9090),B cells,Ridge alpha=0.1,validation,0.6216234399464438,0.6760061838159994,0.4,1.0
+Ganetespib (STA-9090),Myeloid cells,Ridge alpha=0.1,validation,0.8442163657744941,0.4401711320237636,0.22,0.9
+Sunitinib,B cells,Ridge alpha=0.1,validation,0.3906073974016102,0.3258442706968445,0.12,0.66
+Sunitinib,Myeloid cells,Ridge alpha=0.1,validation,0.31464419418916045,0.23401591130649949,0.26,0.88
+Tivozanib,B cells,Ridge alpha=0.1,validation,0.3752853663540844,0.3127354304697488,0.16,0.76
+Tivozanib,Myeloid cells,Ridge alpha=0.1,validation,0.30255216788337147,0.1725102339124327,0.06,0.68
+Tamatinib,B cells,Ridge alpha=0.1,validation,0.42048996814256023,0.631936450936292,0.56,0.96
+Tamatinib,Myeloid cells,Ridge alpha=0.1,validation,0.5998025327026232,0.5287293901925866,0.3,1.0
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,B cells,Ridge alpha=0.1,validation,0.44076706229777174,0.6253047592817683,0.48,0.98
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,Myeloid cells,Ridge alpha=0.1,validation,0.6704816849843382,0.4694578540657274,0.2,0.88
+I-BET151,B cells,Ridge alpha=0.1,validation,0.4513081352764403,0.6558517287719288,0.4,1.0
+I-BET151,Myeloid cells,Ridge alpha=0.1,validation,0.5136000975295606,0.5174696494090939,0.28,0.9
+GW843682X,B cells,Ridge alpha=0.1,validation,0.3264194948768212,0.23421365664754765,0.14,0.7
+GW843682X,Myeloid cells,Ridge alpha=0.1,validation,0.28727796753910817,0.20349054709133216,0.08,0.48
+IN1451,B cells,Ridge alpha=0.1,validation,0.6974669774518644,0.7143986562508927,0.26,1.0
+IN1451,Myeloid cells,Ridge alpha=0.1,validation,0.7307247329940803,0.6691375493029456,0.18,0.9
+Raloxifene,B cells,Ridge alpha=0.1,validation,0.375575505674226,0.18973825345495762,0.06,0.66
+Raloxifene,Myeloid cells,Ridge alpha=0.1,validation,0.33627339294286573,0.30388135797179355,0.1,0.86
+Topotecan,B cells,Ridge alpha=0.1,validation,0.35353429205826153,0.36586073178322576,0.24,0.76
+Topotecan,Myeloid cells,Ridge alpha=0.1,validation,0.3841552247743644,0.3703180234022331,0.2,0.88
+BAY 87-2243,B cells,Ridge alpha=0.1,validation,0.3937248514278556,0.5009088576048772,0.3,0.9
+BAY 87-2243,Myeloid cells,Ridge alpha=0.1,validation,0.4088421718966857,0.3782259054497334,0.18,0.76
+TL_HRAS26,B cells,Ridge alpha=0.1,validation,0.3567038648260769,0.22338588547009075,0.04,0.7
+TL_HRAS26,Myeloid cells,Ridge alpha=0.1,validation,0.29972539812464366,0.13556065478073015,0.14,0.62
+Proscillaridin A;Proscillaridin-A,B cells,Ridge alpha=0.1,validation,0.5292105886899225,0.7400219722655936,0.26,0.92
+BMS-265246,B cells,Ridge alpha=0.1,validation,0.37490066964771446,0.4091464408282707,0.12,0.82
+BMS-265246,Myeloid cells,Ridge alpha=0.1,validation,0.37762516304581667,0.4040233383612143,0.14,0.88
+Pomalidomide,B cells,Ridge alpha=0.1,validation,0.38760193832491235,0.3866135075864178,0.2,0.8
+Pomalidomide,Myeloid cells,Ridge alpha=0.1,validation,0.3849700795379241,0.18909916646198138,0.14,0.68
+Dovitinib,B cells,Ridge alpha=0.1,validation,0.37637515247704156,0.4401866403950001,0.36,0.9
+Dovitinib,Myeloid cells,Ridge alpha=0.1,validation,0.3744785397201258,0.21221237677955282,0.18,0.78
+Navitoclax,B cells,Ridge alpha=0.1,validation,0.6265879373823438,0.11011501492240068,0.12,0.6
+Navitoclax,Myeloid cells,Ridge alpha=0.1,validation,0.3791565266616446,0.11972027718822964,0.08,0.62
+Methotrexate,B cells,Ridge alpha=0.1,validation,0.3268917438464914,0.11012395121926041,0.14,0.58
+Methotrexate,Myeloid cells,Ridge alpha=0.1,validation,0.2918209355630553,0.15919559926663482,0.18,0.78
+AMD-070 (hydrochloride),B cells,Ridge alpha=0.1,validation,0.36141518915418713,0.2538511788891967,0.14,0.74
+AMD-070 (hydrochloride),Myeloid cells,Ridge alpha=0.1,validation,0.3037093181352832,0.24656212378566827,0.22,0.76
+FK 866,B cells,Ridge alpha=0.1,validation,0.3857215394899258,0.30873143875306774,0.1,0.82
+FK 866,Myeloid cells,Ridge alpha=0.1,validation,0.373607045683956,0.3554484928052872,0.06,0.96
+Scriptaid,B cells,Ridge alpha=0.1,validation,0.4456745201053133,0.7545317843341892,0.46,0.98
+Scriptaid,Myeloid cells,Ridge alpha=0.1,validation,0.5960315498615649,0.5262115074624687,0.24,0.9
+PF-04691502,B cells,Ridge alpha=0.1,validation,0.4651142176445403,0.5046424514480077,0.4,0.92
+Isoniazid,B cells,Ridge alpha=0.1,validation,0.36364793328657474,0.18610992607930477,0.08,0.64
+Isoniazid,Myeloid cells,Ridge alpha=0.1,validation,0.3039794807360271,0.18989926297969953,0.08,0.76
+Quizartinib,B cells,Ridge alpha=0.1,validation,0.34270829849471274,0.15876730437601522,0.1,0.72
+Quizartinib,Myeloid cells,Ridge alpha=0.1,validation,0.2840186701360534,0.3127903301194004,0.14,0.96
+PD-0325901,B cells,Ridge alpha=0.1,validation,0.3845110660777845,0.4145057338749003,0.36,0.86
+PD-0325901,Myeloid cells,Ridge alpha=0.1,validation,0.4560826046548346,0.29235094097833647,0.14,0.74
+Riociguat,B cells,Ridge alpha=0.1,validation,0.3476308529450805,0.1425014521489657,0.1,0.6
+Riociguat,Myeloid cells,Ridge alpha=0.1,validation,0.2859269343168989,0.13083576751956127,0.1,0.68
+BI-D1870,B cells,Ridge alpha=0.1,validation,0.37705336545798074,0.18263384465550475,0.08,0.62
+BI-D1870,Myeloid cells,Ridge alpha=0.1,validation,0.3410313265099263,0.20528198830533204,0.08,0.58
+Azacitidine,B cells,Ridge alpha=0.1,validation,0.3466247696260667,0.24347664365624885,0.06,0.68
+Azacitidine,Myeloid cells,Ridge alpha=0.1,validation,0.29565703373416047,0.18200212193963888,0.18,0.56
+TR-14035,B cells,Ridge alpha=0.1,validation,0.3405042472111894,0.31636579237071394,0.06,0.7
+TR-14035,Myeloid cells,Ridge alpha=0.1,validation,0.2841460235450445,0.23799966534936434,0.16,0.66
+AT 7867,B cells,Ridge alpha=0.1,validation,0.33827434066365314,0.4382159685940387,0.32,0.82
+AT 7867,Myeloid cells,Ridge alpha=0.1,validation,0.35583727398408943,0.34494692641225544,0.32,0.9
+GO-6976,B cells,Ridge alpha=0.1,validation,0.39802827250783185,0.2342662921406057,0.06,0.72
+GO-6976,Myeloid cells,Ridge alpha=0.1,validation,0.3698753885272762,0.3312630791222268,0.12,0.8
+TGX 221,B cells,Ridge alpha=0.1,validation,0.3544906746769139,0.4926393710790871,0.28,0.9
+TGX 221,Myeloid cells,Ridge alpha=0.1,validation,0.33506587985782255,0.37213242714132466,0.22,0.84
+Pitavastatin Calcium,B cells,Ridge alpha=0.1,validation,0.4430413344795995,0.4656700727279395,0.22,0.88
+Pitavastatin Calcium,Myeloid cells,Ridge alpha=0.1,validation,0.6111005884157111,0.5009553555773848,0.32,0.96
+ABT737,B cells,Ridge alpha=0.1,validation,0.712104565377651,0.09536292752109488,0.14,0.68
+ABT737,Myeloid cells,Ridge alpha=0.1,validation,0.3516499066054765,0.15315505770847526,0.14,0.62
+PRT-062607,B cells,Ridge alpha=0.1,validation,0.42199689292387416,0.6065771930537467,0.52,0.94
+PRT-062607,Myeloid cells,Ridge alpha=0.1,validation,0.4906586092466103,0.457658080537873,0.2,0.88
+AZ628,B cells,Ridge alpha=0.1,validation,0.3782315089755524,0.5213980864901067,0.3,0.88
+AZ628,Myeloid cells,Ridge alpha=0.1,validation,0.4175294419186236,0.31170107757795934,0.18,0.78
+Masitinib,B cells,Ridge alpha=0.1,validation,0.34841414094100676,0.3639689311839224,0.22,0.7
+Masitinib,Myeloid cells,Ridge alpha=0.1,validation,0.2820121140139392,0.37587318334988457,0.36,0.8
+STK219801,B cells,Ridge alpha=0.1,validation,0.34503378146318125,0.2485148328160929,0.08,0.66
+STK219801,Myeloid cells,Ridge alpha=0.1,validation,0.28124066644090245,0.2473152671764805,0.2,0.72
+Ricolinostat,B cells,Ridge alpha=0.1,validation,0.35441750056868276,0.42648127895502425,0.38,0.84
+Ricolinostat,Myeloid cells,Ridge alpha=0.1,validation,0.3245591804198033,0.4154829178197477,0.36,0.82
+Midostaurin,B cells,Ridge alpha=0.1,validation,0.3987425117635742,0.4545214543200199,0.36,0.9
+Midostaurin,Myeloid cells,Ridge alpha=0.1,validation,0.37853972617960596,0.38882630365969106,0.46,0.88
+CEP-37440,B cells,Ridge alpha=0.1,validation,0.3309094312019188,0.34511185264415134,0.22,0.82
+CEP-37440,Myeloid cells,Ridge alpha=0.1,validation,0.31442809216918105,0.19782323071362565,0.1,0.5
+Oxybenzone,B cells,Ridge alpha=0.1,validation,0.3423197630592394,0.22003081505369612,0.12,0.62
+Oxybenzone,Myeloid cells,Ridge alpha=0.1,validation,0.285643048074519,0.2085643123171857,0.22,0.68
+Tivantinib,B cells,Ridge alpha=0.1,validation,0.3826198391596121,0.32493776199173985,0.14,0.72
+Tivantinib,Myeloid cells,Ridge alpha=0.1,validation,0.3225862594295077,0.31965139777139395,0.28,0.86
+Colchicine,B cells,Ridge alpha=0.1,validation,0.49152869445018704,0.29809624178031646,0.16,0.88
+Colchicine,Myeloid cells,Ridge alpha=0.1,validation,0.7520906163748461,0.4020528869005998,0.14,0.84
+BX 912,B cells,Ridge alpha=0.1,validation,0.38184148261766604,0.40651744260466954,0.4,0.9
+BX 912,Myeloid cells,Ridge alpha=0.1,validation,0.35222451331572846,0.31198466070355174,0.26,0.8
+Selumetinib,B cells,Ridge alpha=0.1,validation,0.3832664348781554,0.3937963527393189,0.2,0.84
+Selumetinib,Myeloid cells,Ridge alpha=0.1,validation,0.3875806098147776,0.3221278310509323,0.16,0.78
+RG7090,B cells,Ridge alpha=0.1,validation,0.3604906275037992,0.24186155067712617,0.12,0.7
+RG7090,Myeloid cells,Ridge alpha=0.1,validation,0.31491588375119056,0.33662811721699754,0.1,0.8
+GLPG0634,B cells,Ridge alpha=0.1,validation,0.37270986353927216,0.5382823656258306,0.5,0.98
+GLPG0634,Myeloid cells,Ridge alpha=0.1,validation,0.34566824096716087,0.48395789182578464,0.48,0.98
+MK-5108,B cells,PCA ridge alpha=0.1,validation,0.29396471496322707,0.25384693696610533,0.22,0.72
+MK-5108,Myeloid cells,PCA ridge alpha=0.1,validation,0.23228262992325366,0.2449794783459026,0.32,0.5
+Ganetespib (STA-9090),B cells,PCA ridge alpha=0.1,validation,0.6140258093775871,0.6845254810201417,0.42,1.0
+Ganetespib (STA-9090),Myeloid cells,PCA ridge alpha=0.1,validation,0.8305637894586996,0.4543777601975048,0.28,0.88
+Sunitinib,B cells,PCA ridge alpha=0.1,validation,0.3521158462073407,0.36879426497552165,0.1,0.68
+Sunitinib,Myeloid cells,PCA ridge alpha=0.1,validation,0.2553930876819558,0.2564488476950287,0.22,0.8
+Tivozanib,B cells,PCA ridge alpha=0.1,validation,0.33456294872807557,0.40083867117968297,0.2,0.82
+Tivozanib,Myeloid cells,PCA ridge alpha=0.1,validation,0.23937746272841187,0.17500986498242138,0.1,0.64
+Tamatinib,B cells,PCA ridge alpha=0.1,validation,0.37551465951415713,0.7229282111176366,0.52,1.0
+Tamatinib,Myeloid cells,PCA ridge alpha=0.1,validation,0.572332652906107,0.6179209955481232,0.32,1.0
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,B cells,PCA ridge alpha=0.1,validation,0.3945490179969345,0.7322111898132058,0.5,0.96
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,Myeloid cells,PCA ridge alpha=0.1,validation,0.6372171328852594,0.5807277175274727,0.22,0.9
+I-BET151,B cells,PCA ridge alpha=0.1,validation,0.4599958832903766,0.6336748167917605,0.4,1.0
+I-BET151,Myeloid cells,PCA ridge alpha=0.1,validation,0.5131336558443265,0.5029077109445539,0.22,0.9
+GW843682X,B cells,PCA ridge alpha=0.1,validation,0.27479405311017385,0.29466414681777775,0.14,0.6
+GW843682X,Myeloid cells,PCA ridge alpha=0.1,validation,0.22458268437031073,0.23910146228656853,0.24,0.52
+IN1451,B cells,PCA ridge alpha=0.1,validation,0.6986952404331274,0.7127078027158801,0.24,1.0
+IN1451,Myeloid cells,PCA ridge alpha=0.1,validation,0.7344245813404011,0.6646014412759511,0.22,0.92
+Raloxifene,B cells,PCA ridge alpha=0.1,validation,0.327788176729801,0.19629186291742945,0.06,0.58
+Raloxifene,Myeloid cells,PCA ridge alpha=0.1,validation,0.28656926726409776,0.32096089052758636,0.18,0.82
+Topotecan,B cells,PCA ridge alpha=0.1,validation,0.3284958996429845,0.300770493045852,0.22,0.76
+Topotecan,Myeloid cells,PCA ridge alpha=0.1,validation,0.36803694564033446,0.30541815295536273,0.2,0.86
+BAY 87-2243,B cells,PCA ridge alpha=0.1,validation,0.35000976243053233,0.5569103329641207,0.24,0.98
+BAY 87-2243,Myeloid cells,PCA ridge alpha=0.1,validation,0.36837875832865236,0.398419598438072,0.14,0.78
+TL_HRAS26,B cells,PCA ridge alpha=0.1,validation,0.31036094130679454,0.2818479576493075,0.06,0.72
+TL_HRAS26,Myeloid cells,PCA ridge alpha=0.1,validation,0.24013116045726718,0.12298696879294152,0.16,0.58
+Proscillaridin A;Proscillaridin-A,B cells,PCA ridge alpha=0.1,validation,0.5361258433894607,0.730019440320104,0.28,0.92
+BMS-265246,B cells,PCA ridge alpha=0.1,validation,0.3532187035916151,0.36737231216596977,0.08,0.76
+BMS-265246,Myeloid cells,PCA ridge alpha=0.1,validation,0.3614727678839304,0.33878881918914827,0.12,0.78
+Pomalidomide,B cells,PCA ridge alpha=0.1,validation,0.38355583269252386,0.24345568678802584,0.16,0.7
+Pomalidomide,Myeloid cells,PCA ridge alpha=0.1,validation,0.3204001306223017,0.15698193597419235,0.06,0.66
+Dovitinib,B cells,PCA ridge alpha=0.1,validation,0.3231004194985408,0.5390867109591229,0.36,0.96
+Dovitinib,Myeloid cells,PCA ridge alpha=0.1,validation,0.3246914202102665,0.1909014541459212,0.18,0.62
+Navitoclax,B cells,PCA ridge alpha=0.1,validation,0.5954864173303963,0.1248256072499214,0.1,0.56
+Navitoclax,Myeloid cells,PCA ridge alpha=0.1,validation,0.32628947931109253,0.06938688925479478,0.06,0.58
+Methotrexate,B cells,PCA ridge alpha=0.1,validation,0.29382907680995574,0.04598805656199635,0.16,0.48
+Methotrexate,Myeloid cells,PCA ridge alpha=0.1,validation,0.24949466273830287,0.12867931734758345,0.14,0.76
+AMD-070 (hydrochloride),B cells,PCA ridge alpha=0.1,validation,0.3181723599839391,0.29600698226899974,0.2,0.74
+AMD-070 (hydrochloride),Myeloid cells,PCA ridge alpha=0.1,validation,0.24841086936402085,0.2713054053138332,0.3,0.74
+FK 866,B cells,PCA ridge alpha=0.1,validation,0.34394352737108624,0.312990467644036,0.06,0.82
+FK 866,Myeloid cells,PCA ridge alpha=0.1,validation,0.329637086197211,0.3634066569612522,0.0,0.96
+Scriptaid,B cells,PCA ridge alpha=0.1,validation,0.4058061269747897,0.7968078979006524,0.5,1.0
+Scriptaid,Myeloid cells,PCA ridge alpha=0.1,validation,0.570681465740377,0.5525114803997456,0.3,0.9
+PF-04691502,B cells,PCA ridge alpha=0.1,validation,0.42129090891003607,0.6043241787096616,0.52,0.92
+Isoniazid,B cells,PCA ridge alpha=0.1,validation,0.3009966556497388,0.2528938233726545,0.04,0.58
+Isoniazid,Myeloid cells,PCA ridge alpha=0.1,validation,0.2233610704031009,0.25131537443405094,0.18,0.8
+Quizartinib,B cells,PCA ridge alpha=0.1,validation,0.2909316481031819,0.1694815009077674,0.1,0.54
+Quizartinib,Myeloid cells,PCA ridge alpha=0.1,validation,0.219376011780551,0.44011123948374475,0.22,1.0
+PD-0325901,B cells,PCA ridge alpha=0.1,validation,0.33483311303128854,0.4745525583168998,0.3,0.86
+PD-0325901,Myeloid cells,PCA ridge alpha=0.1,validation,0.4143106171493948,0.3439828183860749,0.18,0.74
+Riociguat,B cells,PCA ridge alpha=0.1,validation,0.29812430345007607,0.16410863518272487,0.14,0.62
+Riociguat,Myeloid cells,PCA ridge alpha=0.1,validation,0.21613338815207123,0.15235196936617185,0.08,0.66
+BI-D1870,B cells,PCA ridge alpha=0.1,validation,0.3099186317817035,0.2504196004076457,0.06,0.52
+BI-D1870,Myeloid cells,PCA ridge alpha=0.1,validation,0.2670256740211546,0.2670268430196277,0.08,0.56
+Azacitidine,B cells,PCA ridge alpha=0.1,validation,0.30389386849009514,0.23572553117914546,0.04,0.6
+Azacitidine,Myeloid cells,PCA ridge alpha=0.1,validation,0.2175825171658171,0.27500279617046813,0.28,0.62
+TR-14035,B cells,PCA ridge alpha=0.1,validation,0.2931283133694286,0.4019071667663078,0.04,0.76
+TR-14035,Myeloid cells,PCA ridge alpha=0.1,validation,0.22583689590094663,0.270882741387738,0.14,0.58
+AT 7867,B cells,PCA ridge alpha=0.1,validation,0.2833130455003878,0.5308112176678601,0.44,0.88
+AT 7867,Myeloid cells,PCA ridge alpha=0.1,validation,0.31362861665444736,0.3856113377932572,0.36,0.9
+GO-6976,B cells,PCA ridge alpha=0.1,validation,0.34715412436418125,0.2871505125607277,0.1,0.62
+GO-6976,Myeloid cells,PCA ridge alpha=0.1,validation,0.32221846596530573,0.37395770924228827,0.16,0.7
+TGX 221,B cells,PCA ridge alpha=0.1,validation,0.2990440302040411,0.5976489397010343,0.26,1.0
+TGX 221,Myeloid cells,PCA ridge alpha=0.1,validation,0.2685949725060086,0.47313570431614127,0.24,0.9
+Pitavastatin Calcium,B cells,PCA ridge alpha=0.1,validation,0.41408603684656126,0.47268197549890034,0.22,0.84
+Pitavastatin Calcium,Myeloid cells,PCA ridge alpha=0.1,validation,0.6125485825681141,0.4860327908020293,0.28,0.92
+ABT737,B cells,PCA ridge alpha=0.1,validation,0.6851881970053783,0.11227228870471602,0.18,0.62
+ABT737,Myeloid cells,PCA ridge alpha=0.1,validation,0.2989547822948442,0.07506472704907023,0.14,0.5
+PRT-062607,B cells,PCA ridge alpha=0.1,validation,0.37549506660618304,0.7175146285393993,0.52,0.94
+PRT-062607,Myeloid cells,PCA ridge alpha=0.1,validation,0.4642706190308071,0.5196577697354601,0.2,0.94
+AZ628,B cells,PCA ridge alpha=0.1,validation,0.32824053100420175,0.6392414379046816,0.38,0.9
+AZ628,Myeloid cells,PCA ridge alpha=0.1,validation,0.38311510589369585,0.3379586601841419,0.18,0.7
+Masitinib,B cells,PCA ridge alpha=0.1,validation,0.30080161481259954,0.45541835282758936,0.24,0.74
+Masitinib,Myeloid cells,PCA ridge alpha=0.1,validation,0.21926080494310823,0.4911480503284316,0.46,0.86
+STK219801,B cells,PCA ridge alpha=0.1,validation,0.30132482617041684,0.2638524803071911,0.06,0.56
+STK219801,Myeloid cells,PCA ridge alpha=0.1,validation,0.21459983829268078,0.2997939257234289,0.2,0.78
+Ricolinostat,B cells,PCA ridge alpha=0.1,validation,0.30754903550208684,0.48327827876812895,0.38,0.84
+Ricolinostat,Myeloid cells,PCA ridge alpha=0.1,validation,0.262758226336772,0.5054813389054683,0.4,0.86
+Midostaurin,B cells,PCA ridge alpha=0.1,validation,0.34740031819000716,0.5273717618581135,0.4,0.88
+Midostaurin,Myeloid cells,PCA ridge alpha=0.1,validation,0.3249148378823219,0.45486332016875847,0.5,0.86
+CEP-37440,B cells,PCA ridge alpha=0.1,validation,0.2818781469147209,0.4189441661351183,0.2,0.78
+CEP-37440,Myeloid cells,PCA ridge alpha=0.1,validation,0.25954445588346386,0.22454915108897394,0.18,0.54
+Oxybenzone,B cells,PCA ridge alpha=0.1,validation,0.2865970505846271,0.2800455059964835,0.16,0.64
+Oxybenzone,Myeloid cells,PCA ridge alpha=0.1,validation,0.22010234008343804,0.22505449492879545,0.28,0.64
+Tivantinib,B cells,PCA ridge alpha=0.1,validation,0.3184889567874979,0.43840339422325286,0.14,0.72
+Tivantinib,Myeloid cells,PCA ridge alpha=0.1,validation,0.2524165432840156,0.39679106733864367,0.38,0.84
+Colchicine,B cells,PCA ridge alpha=0.1,validation,0.47413351232794615,0.2641082906981037,0.1,0.72
+Colchicine,Myeloid cells,PCA ridge alpha=0.1,validation,0.7585135297068707,0.4347300248812366,0.18,0.86
+BX 912,B cells,PCA ridge alpha=0.1,validation,0.3257318861397203,0.47812743602883023,0.36,0.82
+BX 912,Myeloid cells,PCA ridge alpha=0.1,validation,0.2869090920307256,0.38023730637404424,0.3,0.74
+Selumetinib,B cells,PCA ridge alpha=0.1,validation,0.3367191599679841,0.4773266926744297,0.16,0.82
+Selumetinib,Myeloid cells,PCA ridge alpha=0.1,validation,0.33349373576826413,0.4235910693681697,0.2,0.82
+RG7090,B cells,PCA ridge alpha=0.1,validation,0.3105545530859914,0.2569411588249593,0.14,0.66
+RG7090,Myeloid cells,PCA ridge alpha=0.1,validation,0.24824048610225027,0.40489287839757837,0.06,0.9
+GLPG0634,B cells,PCA ridge alpha=0.1,validation,0.31832391111548813,0.6485712783104756,0.58,0.98
+GLPG0634,Myeloid cells,PCA ridge alpha=0.1,validation,0.2815410754906402,0.6187685901764949,0.58,0.98
+MK-5108,B cells,Ridge alpha=1.0,validation,0.3136046200303041,0.2414738540512722,0.2,0.64
+MK-5108,Myeloid cells,Ridge alpha=1.0,validation,0.2554189019682216,0.23267975308499644,0.26,0.52
+Ganetespib (STA-9090),B cells,Ridge alpha=1.0,validation,0.6246610716668941,0.6871926461480471,0.38,1.0
+Ganetespib (STA-9090),Myeloid cells,Ridge alpha=1.0,validation,0.8140045178917961,0.46609605288595696,0.32,0.92
+Sunitinib,B cells,Ridge alpha=1.0,validation,0.3615968464341061,0.3625846050141763,0.1,0.74
+Sunitinib,Myeloid cells,Ridge alpha=1.0,validation,0.27860285963208553,0.24433950421369363,0.28,0.88
+Tivozanib,B cells,Ridge alpha=1.0,validation,0.3477604888087955,0.3663445588551378,0.18,0.84
+Tivozanib,Myeloid cells,Ridge alpha=1.0,validation,0.26477286370934194,0.1969075854648668,0.1,0.68
+Tamatinib,B cells,Ridge alpha=1.0,validation,0.40390030823842377,0.665328446211202,0.56,0.98
+Tamatinib,Myeloid cells,Ridge alpha=1.0,validation,0.5964859004842485,0.5593365025936637,0.34,1.0
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,B cells,Ridge alpha=1.0,validation,0.4310166822686915,0.6545959024452346,0.52,0.98
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,Myeloid cells,Ridge alpha=1.0,validation,0.6696936882865454,0.4872117696704077,0.18,0.9
+I-BET151,B cells,Ridge alpha=1.0,validation,0.43284874449595645,0.6661734792838613,0.42,1.0
+I-BET151,Myeloid cells,Ridge alpha=1.0,validation,0.48069914599583696,0.532064591838059,0.26,0.9
+GW843682X,B cells,Ridge alpha=1.0,validation,0.29697218671655723,0.2700684801999792,0.14,0.7
+GW843682X,Myeloid cells,Ridge alpha=1.0,validation,0.24933204934801967,0.23848398235008894,0.12,0.54
+IN1451,B cells,Ridge alpha=1.0,validation,0.6897533894672546,0.7142523585067186,0.28,1.0
+IN1451,Myeloid cells,Ridge alpha=1.0,validation,0.6981222287185419,0.6801899302857914,0.22,0.96
+Raloxifene,B cells,Ridge alpha=1.0,validation,0.3383809247505221,0.20057732491095012,0.04,0.66
+Raloxifene,Myeloid cells,Ridge alpha=1.0,validation,0.285819936997943,0.3492914594055747,0.14,0.9
+Topotecan,B cells,Ridge alpha=1.0,validation,0.3245559025046083,0.35539112788911004,0.18,0.76
+Topotecan,Myeloid cells,Ridge alpha=1.0,validation,0.36019074648355887,0.3740595164137979,0.22,0.9
+BAY 87-2243,B cells,Ridge alpha=1.0,validation,0.3548484596654963,0.5337724481147275,0.28,0.9
+BAY 87-2243,Myeloid cells,Ridge alpha=1.0,validation,0.36527926211972905,0.40208894017710856,0.18,0.82
+TL_HRAS26,B cells,Ridge alpha=1.0,validation,0.329008406015174,0.25965776542774416,0.04,0.78
+TL_HRAS26,Myeloid cells,Ridge alpha=1.0,validation,0.26934730797022716,0.1359889466368021,0.16,0.62
+Proscillaridin A;Proscillaridin-A,B cells,Ridge alpha=1.0,validation,0.4625370307110539,0.7484478251976734,0.28,0.92
+BMS-265246,B cells,Ridge alpha=1.0,validation,0.35524639315773127,0.3596341523841592,0.08,0.8
+BMS-265246,Myeloid cells,Ridge alpha=1.0,validation,0.344812359091908,0.40989765770422626,0.16,0.88
+Pomalidomide,B cells,Ridge alpha=1.0,validation,0.3698961616939241,0.34514489895125294,0.2,0.76
+Pomalidomide,Myeloid cells,Ridge alpha=1.0,validation,0.33074687796929314,0.1735631850208866,0.12,0.68
+Dovitinib,B cells,Ridge alpha=1.0,validation,0.3438680503065979,0.4787969213539181,0.38,0.9
+Dovitinib,Myeloid cells,Ridge alpha=1.0,validation,0.3335484393610745,0.22404960482485967,0.16,0.78
+Navitoclax,B cells,Ridge alpha=1.0,validation,0.6094378856858301,0.07908042780330637,0.1,0.6
+Navitoclax,Myeloid cells,Ridge alpha=1.0,validation,0.3345044495506761,0.08679821684684516,0.08,0.52
+Methotrexate,B cells,Ridge alpha=1.0,validation,0.3138047700880924,0.03580801430015129,0.1,0.5
+Methotrexate,Myeloid cells,Ridge alpha=1.0,validation,0.26219558998030745,0.14421272062736637,0.18,0.76
+AMD-070 (hydrochloride),B cells,Ridge alpha=1.0,validation,0.3343799079467239,0.28631587613618903,0.14,0.78
+AMD-070 (hydrochloride),Myeloid cells,Ridge alpha=1.0,validation,0.2723807351789885,0.26020841817698975,0.26,0.76
+FK 866,B cells,Ridge alpha=1.0,validation,0.3473153381161683,0.3375594383608362,0.14,0.84
+FK 866,Myeloid cells,Ridge alpha=1.0,validation,0.3343838610322012,0.3803586664306302,0.08,0.94
+Scriptaid,B cells,Ridge alpha=1.0,validation,0.44443096123443704,0.7592174433868655,0.48,0.98
+Scriptaid,Myeloid cells,Ridge alpha=1.0,validation,0.5569993608064806,0.5427011482924331,0.24,0.92
+PF-04691502,B cells,Ridge alpha=1.0,validation,0.44105430637100923,0.5489924861536881,0.42,0.92
+Isoniazid,B cells,Ridge alpha=1.0,validation,0.33060317033084086,0.21860171971036668,0.08,0.64
+Isoniazid,Myeloid cells,Ridge alpha=1.0,validation,0.25964939912654045,0.2311623742881894,0.12,0.76
+Quizartinib,B cells,Ridge alpha=1.0,validation,0.3146012535249154,0.16990655660277346,0.1,0.68
+Quizartinib,Myeloid cells,Ridge alpha=1.0,validation,0.2460143973921264,0.37744740280021055,0.2,1.0
+PD-0325901,B cells,Ridge alpha=1.0,validation,0.34514682084041987,0.45396280502232544,0.36,0.88
+PD-0325901,Myeloid cells,Ridge alpha=1.0,validation,0.4229492841308182,0.3210706033717944,0.16,0.78
+Riociguat,B cells,Ridge alpha=1.0,validation,0.319885980429651,0.16723773889385227,0.1,0.66
+Riociguat,Myeloid cells,Ridge alpha=1.0,validation,0.24995414157488663,0.14967905019611288,0.12,0.72
+BI-D1870,B cells,Ridge alpha=1.0,validation,0.34133249525781106,0.1919072620643165,0.06,0.58
+BI-D1870,Myeloid cells,Ridge alpha=1.0,validation,0.2960554287958932,0.20871635296481633,0.12,0.56
+Azacitidine,B cells,Ridge alpha=1.0,validation,0.3180693754993946,0.2562927067418407,0.06,0.68
+Azacitidine,Myeloid cells,Ridge alpha=1.0,validation,0.257143174630908,0.19794552287710274,0.2,0.58
+TR-14035,B cells,Ridge alpha=1.0,validation,0.3130385078278501,0.3524637954212551,0.08,0.72
+TR-14035,Myeloid cells,Ridge alpha=1.0,validation,0.24942567488481848,0.26641351425610754,0.16,0.66
+AT 7867,B cells,Ridge alpha=1.0,validation,0.30287736389018743,0.47378752734897855,0.34,0.82
+AT 7867,Myeloid cells,Ridge alpha=1.0,validation,0.3214362386549713,0.38571692543641994,0.32,0.9
+GO-6976,B cells,Ridge alpha=1.0,validation,0.36334032681548717,0.23354367923772285,0.02,0.74
+GO-6976,Myeloid cells,Ridge alpha=1.0,validation,0.33095080081669975,0.3305949062297534,0.12,0.76
+TGX 221,B cells,Ridge alpha=1.0,validation,0.32028943871606724,0.5376538944805568,0.26,0.9
+TGX 221,Myeloid cells,Ridge alpha=1.0,validation,0.2949407113758856,0.4039167817918887,0.2,0.86
+Pitavastatin Calcium,B cells,Ridge alpha=1.0,validation,0.3956312612681947,0.42969106175111277,0.16,0.84
+Pitavastatin Calcium,Myeloid cells,Ridge alpha=1.0,validation,0.6009091372782828,0.49702782884747515,0.3,0.96
+ABT737,B cells,Ridge alpha=1.0,validation,0.6945871622908484,0.08561203468118242,0.14,0.7
+ABT737,Myeloid cells,Ridge alpha=1.0,validation,0.30071503097666175,0.17808611997715154,0.16,0.62
+PRT-062607,B cells,Ridge alpha=1.0,validation,0.4068419357478144,0.6406808996979357,0.54,0.96
+PRT-062607,Myeloid cells,Ridge alpha=1.0,validation,0.473624879665033,0.48821361801256696,0.24,0.9
+AZ628,B cells,Ridge alpha=1.0,validation,0.352195612483522,0.5652658802358533,0.32,0.9
+AZ628,Myeloid cells,Ridge alpha=1.0,validation,0.3892517785177825,0.3358506359546363,0.2,0.78
+Masitinib,B cells,Ridge alpha=1.0,validation,0.3194822014996572,0.4029474369902527,0.22,0.74
+Masitinib,Myeloid cells,Ridge alpha=1.0,validation,0.2483601044062251,0.4073036974847337,0.4,0.8
+STK219801,B cells,Ridge alpha=1.0,validation,0.31445935019057936,0.28292789927735107,0.1,0.64
+STK219801,Myeloid cells,Ridge alpha=1.0,validation,0.24156448497105898,0.2803577599112989,0.2,0.74
+Ricolinostat,B cells,Ridge alpha=1.0,validation,0.32097084069926896,0.44567056036977376,0.4,0.84
+Ricolinostat,Myeloid cells,Ridge alpha=1.0,validation,0.28550264581362406,0.43250222283567424,0.36,0.84
+Midostaurin,B cells,Ridge alpha=1.0,validation,0.3642140366384082,0.48134334183206273,0.36,0.92
+Midostaurin,Myeloid cells,Ridge alpha=1.0,validation,0.3450975953053766,0.3930628458208163,0.5,0.86
+CEP-37440,B cells,Ridge alpha=1.0,validation,0.30039381525623,0.3797279076737305,0.24,0.78
+CEP-37440,Myeloid cells,Ridge alpha=1.0,validation,0.27647842812334683,0.21810318022952796,0.18,0.5
+Oxybenzone,B cells,Ridge alpha=1.0,validation,0.3120239118455595,0.25117103118349016,0.14,0.6
+Oxybenzone,Myeloid cells,Ridge alpha=1.0,validation,0.24747921083739793,0.23113683392772486,0.24,0.68
+Tivantinib,B cells,Ridge alpha=1.0,validation,0.3469564427829041,0.3603499638662553,0.14,0.72
+Tivantinib,Myeloid cells,Ridge alpha=1.0,validation,0.28100075746909514,0.3437327881836822,0.3,0.84
+Colchicine,B cells,Ridge alpha=1.0,validation,0.47806455644140533,0.2838889939882044,0.16,0.84
+Colchicine,Myeloid cells,Ridge alpha=1.0,validation,0.754490758020478,0.418746933032943,0.14,0.86
+BX 912,B cells,Ridge alpha=1.0,validation,0.34338489396376654,0.4356615299880297,0.4,0.9
+BX 912,Myeloid cells,Ridge alpha=1.0,validation,0.30852748233553484,0.33257121742610685,0.26,0.76
+Selumetinib,B cells,Ridge alpha=1.0,validation,0.3514602619174842,0.4412783946434149,0.22,0.86
+Selumetinib,Myeloid cells,Ridge alpha=1.0,validation,0.3566429051825515,0.3532333600216805,0.22,0.78
+RG7090,B cells,Ridge alpha=1.0,validation,0.32721047947652626,0.24016855982764712,0.12,0.7
+RG7090,Myeloid cells,Ridge alpha=1.0,validation,0.2710713702174307,0.3466506071684192,0.12,0.82
+GLPG0634,B cells,Ridge alpha=1.0,validation,0.3460153093391608,0.5693003161471418,0.48,1.0
+GLPG0634,Myeloid cells,Ridge alpha=1.0,validation,0.31196944029654666,0.5222533832647249,0.48,0.98
+MK-5108,B cells,PCA ridge alpha=1.0,validation,0.28935967364198795,0.25803388331983845,0.22,0.76
+MK-5108,Myeloid cells,PCA ridge alpha=1.0,validation,0.22523545158286515,0.23395321041534864,0.32,0.5
+Ganetespib (STA-9090),B cells,PCA ridge alpha=1.0,validation,0.6247498806185474,0.6928616199032573,0.42,1.0
+Ganetespib (STA-9090),Myeloid cells,PCA ridge alpha=1.0,validation,0.8076470885379298,0.48085504881838775,0.32,0.9
+Sunitinib,B cells,PCA ridge alpha=1.0,validation,0.3465781750407544,0.3815768590171893,0.1,0.7
+Sunitinib,Myeloid cells,PCA ridge alpha=1.0,validation,0.2485136328227203,0.25310175479611186,0.2,0.84
+Tivozanib,B cells,PCA ridge alpha=1.0,validation,0.3307973395963708,0.4233732271208328,0.2,0.84
+Tivozanib,Myeloid cells,PCA ridge alpha=1.0,validation,0.23341802150567978,0.18687752312642403,0.1,0.62
+Tamatinib,B cells,PCA ridge alpha=1.0,validation,0.3834068481544026,0.7396291232141405,0.56,1.0
+Tamatinib,Myeloid cells,PCA ridge alpha=1.0,validation,0.5865556418177208,0.6310601975694697,0.36,1.0
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,B cells,PCA ridge alpha=1.0,validation,0.40854563772037855,0.740226029893595,0.5,0.96
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,Myeloid cells,PCA ridge alpha=1.0,validation,0.6525666125197906,0.5823490296208437,0.26,0.9
+I-BET151,B cells,PCA ridge alpha=1.0,validation,0.4444874080814581,0.643299443599193,0.38,1.0
+I-BET151,Myeloid cells,PCA ridge alpha=1.0,validation,0.48412635806209114,0.5197968437896365,0.24,0.9
+GW843682X,B cells,PCA ridge alpha=1.0,validation,0.2726106342021499,0.29903780025069526,0.08,0.62
+GW843682X,Myeloid cells,PCA ridge alpha=1.0,validation,0.21715850161274544,0.25669851210840633,0.26,0.52
+IN1451,B cells,PCA ridge alpha=1.0,validation,0.6918566536867865,0.7127253285754341,0.3,1.0
+IN1451,Myeloid cells,PCA ridge alpha=1.0,validation,0.7031664178220666,0.6742303293585863,0.22,0.92
+Raloxifene,B cells,PCA ridge alpha=1.0,validation,0.3158193861528779,0.19744122109901763,0.06,0.52
+Raloxifene,Myeloid cells,PCA ridge alpha=1.0,validation,0.2646069341749666,0.3539818961745433,0.16,0.84
+Topotecan,B cells,PCA ridge alpha=1.0,validation,0.32072893714521405,0.2808418278049282,0.22,0.74
+Topotecan,Myeloid cells,PCA ridge alpha=1.0,validation,0.36066339864429653,0.3116593636683888,0.16,0.88
+BAY 87-2243,B cells,PCA ridge alpha=1.0,validation,0.3347494549045538,0.5768793104684152,0.3,0.98
+BAY 87-2243,Myeloid cells,PCA ridge alpha=1.0,validation,0.3479735236843043,0.41345768036348884,0.16,0.76
+TL_HRAS26,B cells,PCA ridge alpha=1.0,validation,0.3069249353534599,0.2932588537531424,0.06,0.7
+TL_HRAS26,Myeloid cells,PCA ridge alpha=1.0,validation,0.23823803848931352,0.11980379461595117,0.14,0.56
+Proscillaridin A;Proscillaridin-A,B cells,PCA ridge alpha=1.0,validation,0.4701357234787099,0.7387004365769873,0.28,0.92
+BMS-265246,B cells,PCA ridge alpha=1.0,validation,0.35294038134126837,0.2986544925126323,0.04,0.68
+BMS-265246,Myeloid cells,PCA ridge alpha=1.0,validation,0.3472813232988057,0.3413946030632043,0.12,0.82
+Pomalidomide,B cells,PCA ridge alpha=1.0,validation,0.3830921231591172,0.17755939168448914,0.14,0.6
+Pomalidomide,Myeloid cells,PCA ridge alpha=1.0,validation,0.29799292065057664,0.13521122273114836,0.08,0.6
+Dovitinib,B cells,PCA ridge alpha=1.0,validation,0.3200887454378602,0.5453759067644022,0.32,0.96
+Dovitinib,Myeloid cells,PCA ridge alpha=1.0,validation,0.3126727267530275,0.1868648572478895,0.16,0.62
+Navitoclax,B cells,PCA ridge alpha=1.0,validation,0.5949465625294834,0.07538868531217138,0.08,0.54
+Navitoclax,Myeloid cells,PCA ridge alpha=1.0,validation,0.30891950025609394,0.013597637408205524,0.12,0.48
+Methotrexate,B cells,PCA ridge alpha=1.0,validation,0.3000768406917103,-0.062483902241102444,0.08,0.42
+Methotrexate,Myeloid cells,PCA ridge alpha=1.0,validation,0.24077386413998048,0.10803482823581012,0.12,0.76
+AMD-070 (hydrochloride),B cells,PCA ridge alpha=1.0,validation,0.3155862494995636,0.3036800631718428,0.18,0.72
+AMD-070 (hydrochloride),Myeloid cells,PCA ridge alpha=1.0,validation,0.24673573896729425,0.25957975762994867,0.3,0.76
+FK 866,B cells,PCA ridge alpha=1.0,validation,0.3315826150155202,0.3371826581137506,0.1,0.84
+FK 866,Myeloid cells,PCA ridge alpha=1.0,validation,0.31818143087380196,0.3816000819623165,0.02,0.98
+Scriptaid,B cells,PCA ridge alpha=1.0,validation,0.4261555499228948,0.795019587119727,0.5,1.0
+Scriptaid,Myeloid cells,PCA ridge alpha=1.0,validation,0.5466517499919233,0.5627475694725412,0.32,0.92
+PF-04691502,B cells,PCA ridge alpha=1.0,validation,0.42074155027057575,0.6281147582728447,0.52,0.92
+Isoniazid,B cells,PCA ridge alpha=1.0,validation,0.30015609057994525,0.25418343615951605,0.04,0.6
+Isoniazid,Myeloid cells,PCA ridge alpha=1.0,validation,0.21812026467116954,0.2664178878024901,0.22,0.8
+Quizartinib,B cells,PCA ridge alpha=1.0,validation,0.2909396260525754,0.15401615341773695,0.08,0.54
+Quizartinib,Myeloid cells,PCA ridge alpha=1.0,validation,0.21541162768444275,0.46338935662706077,0.24,0.96
+PD-0325901,B cells,PCA ridge alpha=1.0,validation,0.3216628835820682,0.5001858521567587,0.28,0.9
+PD-0325901,Myeloid cells,PCA ridge alpha=1.0,validation,0.4046704519896242,0.35462391320423864,0.2,0.76
+Riociguat,B cells,PCA ridge alpha=1.0,validation,0.2963202286842649,0.1679587337032471,0.12,0.6
+Riociguat,Myeloid cells,PCA ridge alpha=1.0,validation,0.21204055964467897,0.15996160890676364,0.1,0.66
+BI-D1870,B cells,PCA ridge alpha=1.0,validation,0.3086924351903972,0.22880230710305327,0.04,0.54
+BI-D1870,Myeloid cells,PCA ridge alpha=1.0,validation,0.25983179036795395,0.2355891559889204,0.08,0.52
+Azacitidine,B cells,PCA ridge alpha=1.0,validation,0.30054959751077037,0.23130365119436874,0.04,0.54
+Azacitidine,Myeloid cells,PCA ridge alpha=1.0,validation,0.21345022096295352,0.2680190139608511,0.26,0.64
+TR-14035,B cells,PCA ridge alpha=1.0,validation,0.290404110179124,0.40294519536307444,0.04,0.76
+TR-14035,Myeloid cells,PCA ridge alpha=1.0,validation,0.22091196322141993,0.272308694391702,0.12,0.58
+AT 7867,B cells,PCA ridge alpha=1.0,validation,0.27627084884469066,0.5371952330840835,0.46,0.88
+AT 7867,Myeloid cells,PCA ridge alpha=1.0,validation,0.30518891483267857,0.4061273721782287,0.36,0.9
+GO-6976,B cells,PCA ridge alpha=1.0,validation,0.33820816568678164,0.2738376712650652,0.06,0.58
+GO-6976,Myeloid cells,PCA ridge alpha=1.0,validation,0.3102373611139285,0.3549625587080157,0.18,0.68
+TGX 221,B cells,PCA ridge alpha=1.0,validation,0.29459101745618116,0.6126796086716769,0.26,0.98
+TGX 221,Myeloid cells,PCA ridge alpha=1.0,validation,0.26160822497600716,0.4759892021604447,0.26,0.92
+Pitavastatin Calcium,B cells,PCA ridge alpha=1.0,validation,0.3835583519122404,0.4319633135233846,0.16,0.84
+Pitavastatin Calcium,Myeloid cells,PCA ridge alpha=1.0,validation,0.6095724378922978,0.4769937677978508,0.26,0.88
+ABT737,B cells,PCA ridge alpha=1.0,validation,0.6823259711046671,0.09082488814576223,0.18,0.62
+ABT737,Myeloid cells,PCA ridge alpha=1.0,validation,0.2775986152070279,0.0941625088838893,0.14,0.5
+PRT-062607,B cells,PCA ridge alpha=1.0,validation,0.3865136465759147,0.7236930221690868,0.52,0.94
+PRT-062607,Myeloid cells,PCA ridge alpha=1.0,validation,0.46752107631119416,0.5250143539866671,0.24,0.94
+AZ628,B cells,PCA ridge alpha=1.0,validation,0.32917859836133867,0.6498574699541598,0.38,0.92
+AZ628,Myeloid cells,PCA ridge alpha=1.0,validation,0.3776154969048175,0.3389451100093862,0.22,0.7
+Masitinib,B cells,PCA ridge alpha=1.0,validation,0.29682602021316307,0.4611081172703723,0.24,0.7
+Masitinib,Myeloid cells,PCA ridge alpha=1.0,validation,0.21696313536112863,0.48250164617643515,0.48,0.86
+STK219801,B cells,PCA ridge alpha=1.0,validation,0.2956485725475054,0.28222406316528237,0.04,0.52
+STK219801,Myeloid cells,PCA ridge alpha=1.0,validation,0.20692372436149808,0.3167285267661094,0.3,0.78
+Ricolinostat,B cells,PCA ridge alpha=1.0,validation,0.3000793299576597,0.4813289177276361,0.38,0.82
+Ricolinostat,Myeloid cells,PCA ridge alpha=1.0,validation,0.2551541903322607,0.49536461166457874,0.4,0.86
+Midostaurin,B cells,PCA ridge alpha=1.0,validation,0.3407164567259064,0.5324856046647357,0.4,0.9
+Midostaurin,Myeloid cells,PCA ridge alpha=1.0,validation,0.32029373400162753,0.43620047215599395,0.54,0.82
+CEP-37440,B cells,PCA ridge alpha=1.0,validation,0.27668644398122955,0.4262319942249673,0.22,0.78
+CEP-37440,Myeloid cells,PCA ridge alpha=1.0,validation,0.2478526014194824,0.23111743457921538,0.16,0.54
+Oxybenzone,B cells,PCA ridge alpha=1.0,validation,0.2849835019108554,0.2805651143306874,0.16,0.62
+Oxybenzone,Myeloid cells,PCA ridge alpha=1.0,validation,0.2144536400932248,0.22712638921704084,0.28,0.66
+Tivantinib,B cells,PCA ridge alpha=1.0,validation,0.31462372047066567,0.44012336057456164,0.14,0.72
+Tivantinib,Myeloid cells,PCA ridge alpha=1.0,validation,0.24713578428576496,0.38781295069516,0.36,0.84
+Colchicine,B cells,PCA ridge alpha=1.0,validation,0.4779973281363619,0.22731057686690395,0.1,0.7
+Colchicine,Myeloid cells,PCA ridge alpha=1.0,validation,0.768073417580693,0.422710885240659,0.14,0.88
+BX 912,B cells,PCA ridge alpha=1.0,validation,0.3173375571679634,0.48079560717439485,0.34,0.82
+BX 912,Myeloid cells,PCA ridge alpha=1.0,validation,0.2765333910978478,0.3729537059025438,0.28,0.72
+Selumetinib,B cells,PCA ridge alpha=1.0,validation,0.3322410001516616,0.4964135256288736,0.18,0.84
+Selumetinib,Myeloid cells,PCA ridge alpha=1.0,validation,0.33227444988738225,0.4224970160858535,0.2,0.82
+RG7090,B cells,PCA ridge alpha=1.0,validation,0.30551775861632385,0.23397513090012725,0.1,0.62
+RG7090,Myeloid cells,PCA ridge alpha=1.0,validation,0.24036907835868682,0.3832461453128829,0.08,0.9
+GLPG0634,B cells,PCA ridge alpha=1.0,validation,0.3205966152784907,0.6502038157489809,0.58,0.98
+GLPG0634,Myeloid cells,PCA ridge alpha=1.0,validation,0.28278101885487966,0.6196590560459332,0.58,1.0
+MK-5108,B cells,Ridge alpha=10.0,validation,0.28348914590992047,0.27227136238513266,0.22,0.74
+MK-5108,Myeloid cells,Ridge alpha=10.0,validation,0.21593311749188895,0.23923882234327967,0.3,0.56
+Ganetespib (STA-9090),B cells,Ridge alpha=10.0,validation,0.7287205399483456,0.6733730275865261,0.38,1.0
+Ganetespib (STA-9090),Myeloid cells,Ridge alpha=10.0,validation,0.8412323886881931,0.5416407319451635,0.32,0.92
+Sunitinib,B cells,Ridge alpha=10.0,validation,0.33767182248185745,0.4224976354642609,0.1,0.84
+Sunitinib,Myeloid cells,Ridge alpha=10.0,validation,0.2413051131823138,0.24549515972813443,0.26,0.7
+Tivozanib,B cells,Ridge alpha=10.0,validation,0.3290763555717726,0.4368900664099338,0.16,0.88
+Tivozanib,Myeloid cells,Ridge alpha=10.0,validation,0.2258159428361327,0.22970901031492452,0.12,0.76
+Tamatinib,B cells,Ridge alpha=10.0,validation,0.4334484954312702,0.718518447064466,0.58,1.0
+Tamatinib,Myeloid cells,Ridge alpha=10.0,validation,0.6293681787492019,0.6081542445278503,0.34,1.0
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,B cells,Ridge alpha=10.0,validation,0.46282026479446553,0.7002616686085141,0.46,1.0
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,Myeloid cells,Ridge alpha=10.0,validation,0.6986752209552931,0.4987763838523066,0.18,0.9
+I-BET151,B cells,Ridge alpha=10.0,validation,0.4949559835509418,0.6173022885494941,0.26,0.96
+I-BET151,Myeloid cells,Ridge alpha=10.0,validation,0.5050349405633818,0.5198051590011292,0.18,0.94
+GW843682X,B cells,Ridge alpha=10.0,validation,0.2697169043303671,0.3064644328624224,0.08,0.6
+GW843682X,Myeloid cells,Ridge alpha=10.0,validation,0.20879967815802092,0.28278453860108904,0.12,0.58
+IN1451,B cells,Ridge alpha=10.0,validation,0.8632840487129715,0.6420832946796255,0.22,1.0
+IN1451,Myeloid cells,Ridge alpha=10.0,validation,0.8330721284294961,0.680685762668866,0.28,0.94
+Raloxifene,B cells,Ridge alpha=10.0,validation,0.3184318883667223,0.1485570567962124,0.04,0.56
+Raloxifene,Myeloid cells,Ridge alpha=10.0,validation,0.25762734442398744,0.35606992898948747,0.24,0.88
+Topotecan,B cells,Ridge alpha=10.0,validation,0.31789081357562526,0.23605543691403402,0.06,0.7
+Topotecan,Myeloid cells,Ridge alpha=10.0,validation,0.3618209908638772,0.2913571193233403,0.08,0.84
+BAY 87-2243,B cells,Ridge alpha=10.0,validation,0.3398753057783307,0.5895490657679924,0.32,0.94
+BAY 87-2243,Myeloid cells,Ridge alpha=10.0,validation,0.33875677392471076,0.427114974149724,0.16,0.86
+TL_HRAS26,B cells,Ridge alpha=10.0,validation,0.3024576459403156,0.30831387734807175,0.08,0.72
+TL_HRAS26,Myeloid cells,Ridge alpha=10.0,validation,0.23596181375824363,0.12147096505660071,0.1,0.6
+Proscillaridin A;Proscillaridin-A,B cells,Ridge alpha=10.0,validation,0.5950831378909063,0.6656382550235159,0.3,0.94
+BMS-265246,B cells,Ridge alpha=10.0,validation,0.3729290963494196,0.08062681676048074,0.06,0.56
+BMS-265246,Myeloid cells,Ridge alpha=10.0,validation,0.34969692709089445,0.29212667535913006,0.2,0.82
+Pomalidomide,B cells,Ridge alpha=10.0,validation,0.39540181163273497,0.041284738774537366,0.0,0.38
+Pomalidomide,Myeloid cells,Ridge alpha=10.0,validation,0.2913146615918752,0.05029928099043039,0.08,0.64
+Dovitinib,B cells,Ridge alpha=10.0,validation,0.3275971450943258,0.5317198788866901,0.28,0.96
+Dovitinib,Myeloid cells,Ridge alpha=10.0,validation,0.294742415754645,0.21418699627935273,0.12,0.64
+Navitoclax,B cells,Ridge alpha=10.0,validation,0.604488454969441,-0.054285754969651025,0.06,0.56
+Navitoclax,Myeloid cells,Ridge alpha=10.0,validation,0.30001675620332985,-0.08975247895377539,0.14,0.32
+Methotrexate,B cells,Ridge alpha=10.0,validation,0.31473337316846883,-0.1863295116266173,0.1,0.32
+Methotrexate,Myeloid cells,Ridge alpha=10.0,validation,0.24256801045929383,0.03466680209975955,0.14,0.5
+AMD-070 (hydrochloride),B cells,Ridge alpha=10.0,validation,0.3117824026249012,0.3199260476338011,0.12,0.74
+AMD-070 (hydrochloride),Myeloid cells,Ridge alpha=10.0,validation,0.24217511128554964,0.27021221378095317,0.3,0.78
+FK 866,B cells,Ridge alpha=10.0,validation,0.3291763845332146,0.32946405296067094,0.14,0.82
+FK 866,Myeloid cells,Ridge alpha=10.0,validation,0.3209990623197699,0.3521783661615003,0.1,0.92
+Scriptaid,B cells,Ridge alpha=10.0,validation,0.5574050347625927,0.7018025226990781,0.4,0.98
+Scriptaid,Myeloid cells,Ridge alpha=10.0,validation,0.5861231561881776,0.5515180733667111,0.26,0.94
+PF-04691502,B cells,Ridge alpha=10.0,validation,0.44686254342337606,0.6238207523462148,0.38,0.96
+Isoniazid,B cells,Ridge alpha=10.0,validation,0.2994431265227803,0.2579574374922249,0.0,0.54
+Isoniazid,Myeloid cells,Ridge alpha=10.0,validation,0.20986389907926817,0.31741752335146106,0.16,0.8
+Quizartinib,B cells,Ridge alpha=10.0,validation,0.2891386795129381,0.15396528044603694,0.1,0.62
+Quizartinib,Myeloid cells,Ridge alpha=10.0,validation,0.2167276016853116,0.45947299615038145,0.2,0.94
+PD-0325901,B cells,Ridge alpha=10.0,validation,0.3188014568496347,0.5180372353037245,0.32,0.92
+PD-0325901,Myeloid cells,Ridge alpha=10.0,validation,0.40289772327763046,0.35338029592956505,0.18,0.8
+Riociguat,B cells,Ridge alpha=10.0,validation,0.2904057355280687,0.19677759507002374,0.1,0.62
+Riociguat,Myeloid cells,Ridge alpha=10.0,validation,0.20394939492472447,0.20795148775574865,0.1,0.72
+BI-D1870,B cells,Ridge alpha=10.0,validation,0.31860562793444064,0.15179704128166283,0.04,0.6
+BI-D1870,Myeloid cells,Ridge alpha=10.0,validation,0.26100107325931843,0.14927896953372802,0.1,0.48
+Azacitidine,B cells,Ridge alpha=10.0,validation,0.2912890910881184,0.2522948446848374,0.04,0.66
+Azacitidine,Myeloid cells,Ridge alpha=10.0,validation,0.20964144078251434,0.2487909215223496,0.28,0.66
+TR-14035,B cells,Ridge alpha=10.0,validation,0.28813644240318365,0.40030416493015736,0.06,0.7
+TR-14035,Myeloid cells,Ridge alpha=10.0,validation,0.20915722130635894,0.3184271723560154,0.14,0.66
+AT 7867,B cells,Ridge alpha=10.0,validation,0.27932633214290703,0.520965356300696,0.4,0.86
+AT 7867,Myeloid cells,Ridge alpha=10.0,validation,0.2984579540027262,0.44524001785876693,0.3,0.94
+GO-6976,B cells,Ridge alpha=10.0,validation,0.3544507157496654,0.12019800699674711,0.04,0.48
+GO-6976,Myeloid cells,Ridge alpha=10.0,validation,0.32305673596687684,0.18939577943386146,0.16,0.56
+TGX 221,B cells,Ridge alpha=10.0,validation,0.30350684507836223,0.6119390661798805,0.28,0.96
+TGX 221,Myeloid cells,Ridge alpha=10.0,validation,0.2598894454337865,0.46998718592305705,0.2,0.9
+Pitavastatin Calcium,B cells,Ridge alpha=10.0,validation,0.4237359610955506,0.06552625273854892,0.14,0.48
+Pitavastatin Calcium,Myeloid cells,Ridge alpha=10.0,validation,0.6657570471806584,0.3019682834265883,0.18,0.8
+ABT737,B cells,Ridge alpha=10.0,validation,0.6835874364351447,0.02663525949956939,0.12,0.56
+ABT737,Myeloid cells,Ridge alpha=10.0,validation,0.2515526240216649,0.19509067687971188,0.14,0.6
+PRT-062607,B cells,Ridge alpha=10.0,validation,0.42874226572829566,0.6988510742646507,0.52,0.94
+PRT-062607,Myeloid cells,Ridge alpha=10.0,validation,0.4825753258007348,0.5321730041341772,0.28,0.92
+AZ628,B cells,Ridge alpha=10.0,validation,0.34845457398132723,0.6373450992563562,0.42,0.88
+AZ628,Myeloid cells,Ridge alpha=10.0,validation,0.370224278126536,0.36785973919649406,0.24,0.78
+Masitinib,B cells,Ridge alpha=10.0,validation,0.29722336399252935,0.4538718291725929,0.22,0.66
+Masitinib,Myeloid cells,Ridge alpha=10.0,validation,0.21548159962293495,0.47359692523227964,0.42,0.8
+STK219801,B cells,Ridge alpha=10.0,validation,0.2882965107129626,0.32336636308983224,0.12,0.54
+STK219801,Myeloid cells,Ridge alpha=10.0,validation,0.20035936273088928,0.3459384976090747,0.26,0.84
+Ricolinostat,B cells,Ridge alpha=10.0,validation,0.30397299040037506,0.4431554560555805,0.42,0.84
+Ricolinostat,Myeloid cells,Ridge alpha=10.0,validation,0.26183882016736937,0.42711540524076214,0.36,0.84
+Midostaurin,B cells,Ridge alpha=10.0,validation,0.34816586952351497,0.5149061345564092,0.36,0.98
+Midostaurin,Myeloid cells,Ridge alpha=10.0,validation,0.322871700465167,0.3954037945708105,0.54,0.84
+CEP-37440,B cells,Ridge alpha=10.0,validation,0.2750081371956853,0.4188264550282618,0.2,0.76
+CEP-37440,Myeloid cells,Ridge alpha=10.0,validation,0.23513894464019688,0.2320674373392737,0.14,0.56
+Oxybenzone,B cells,Ridge alpha=10.0,validation,0.2810153355631438,0.29642296528749357,0.16,0.64
+Oxybenzone,Myeloid cells,Ridge alpha=10.0,validation,0.20121206722678664,0.28789793246760303,0.24,0.7
+Tivantinib,B cells,Ridge alpha=10.0,validation,0.3173432347259205,0.41583139232268745,0.14,0.78
+Tivantinib,Myeloid cells,Ridge alpha=10.0,validation,0.2401468604876115,0.39468947103529956,0.34,0.86
+Colchicine,B cells,Ridge alpha=10.0,validation,0.48314151766938634,0.1784814279704591,0.08,0.68
+Colchicine,Myeloid cells,Ridge alpha=10.0,validation,0.787288088836772,0.3508480294818994,0.08,0.82
+BX 912,B cells,Ridge alpha=10.0,validation,0.3137314406698715,0.4812152873052705,0.36,0.88
+BX 912,Myeloid cells,Ridge alpha=10.0,validation,0.2635727127709394,0.38362097938554207,0.32,0.76
+Selumetinib,B cells,Ridge alpha=10.0,validation,0.3328348789259073,0.5124042071496429,0.24,0.8
+Selumetinib,Myeloid cells,Ridge alpha=10.0,validation,0.3384212248521142,0.3843692044176888,0.24,0.8
+RG7090,B cells,Ridge alpha=10.0,validation,0.3134253206318322,0.1469447829468138,0.06,0.62
+RG7090,Myeloid cells,Ridge alpha=10.0,validation,0.2529027570250839,0.2345973755041862,0.12,0.74
+GLPG0634,B cells,Ridge alpha=10.0,validation,0.3436019902113316,0.616883379894013,0.52,0.98
+GLPG0634,Myeloid cells,Ridge alpha=10.0,validation,0.29742105022689935,0.5975535169799763,0.52,0.96
+MK-5108,B cells,PCA ridge alpha=10.0,validation,0.2845910276304035,0.24945466040637848,0.2,0.76
+MK-5108,Myeloid cells,PCA ridge alpha=10.0,validation,0.21464776047380907,0.22234616733628912,0.3,0.58
+Ganetespib (STA-9090),B cells,PCA ridge alpha=10.0,validation,0.7326089076691161,0.6685665773927588,0.38,1.0
+Ganetespib (STA-9090),Myeloid cells,PCA ridge alpha=10.0,validation,0.8421512645646352,0.5526810796625355,0.42,0.94
+Sunitinib,B cells,PCA ridge alpha=10.0,validation,0.34242214335433874,0.39426329993189096,0.1,0.7
+Sunitinib,Myeloid cells,PCA ridge alpha=10.0,validation,0.23976000999916822,0.23487847657362357,0.18,0.78
+Tivozanib,B cells,PCA ridge alpha=10.0,validation,0.33211432569950955,0.4209515387422648,0.16,0.88
+Tivozanib,Myeloid cells,PCA ridge alpha=10.0,validation,0.22648821557382215,0.19318846225369515,0.1,0.74
+Tamatinib,B cells,PCA ridge alpha=10.0,validation,0.43460864433211754,0.7361125704543118,0.58,1.0
+Tamatinib,Myeloid cells,PCA ridge alpha=10.0,validation,0.633321737692892,0.6126171315892173,0.32,1.0
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,B cells,PCA ridge alpha=10.0,validation,0.462499974781804,0.7239401288269416,0.44,0.96
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,Myeloid cells,PCA ridge alpha=10.0,validation,0.6977360107456733,0.5293348339272328,0.24,0.9
+I-BET151,B cells,PCA ridge alpha=10.0,validation,0.5019706259466948,0.5938117444136657,0.22,0.96
+I-BET151,Myeloid cells,PCA ridge alpha=10.0,validation,0.5086319306422665,0.5118922819550308,0.14,0.96
+GW843682X,B cells,PCA ridge alpha=10.0,validation,0.27146135174624536,0.2804262527860853,0.02,0.6
+GW843682X,Myeloid cells,PCA ridge alpha=10.0,validation,0.20830500035652766,0.26120499822613447,0.18,0.56
+IN1451,B cells,PCA ridge alpha=10.0,validation,0.8651716683227597,0.6428050339244438,0.24,1.0
+IN1451,Myeloid cells,PCA ridge alpha=10.0,validation,0.8370928119848295,0.6720405341988435,0.28,0.92
+Raloxifene,B cells,PCA ridge alpha=10.0,validation,0.32025418355646473,0.10787605627364365,0.04,0.48
+Raloxifene,Myeloid cells,PCA ridge alpha=10.0,validation,0.2649062597744381,0.2822856477791151,0.14,0.78
+Topotecan,B cells,PCA ridge alpha=10.0,validation,0.32399671765443155,0.17472932961089396,0.04,0.58
+Topotecan,Myeloid cells,PCA ridge alpha=10.0,validation,0.36680524184832763,0.24328500282950327,0.04,0.8
+BAY 87-2243,B cells,PCA ridge alpha=10.0,validation,0.3410222127202589,0.5947669752325248,0.3,0.96
+BAY 87-2243,Myeloid cells,PCA ridge alpha=10.0,validation,0.34241227156707466,0.4052997344266681,0.16,0.78
+TL_HRAS26,B cells,PCA ridge alpha=10.0,validation,0.30301398101866206,0.2955748174052174,0.06,0.72
+TL_HRAS26,Myeloid cells,PCA ridge alpha=10.0,validation,0.2326686359707812,0.11499491087928919,0.1,0.54
+Proscillaridin A;Proscillaridin-A,B cells,PCA ridge alpha=10.0,validation,0.598354806381561,0.6609029025721241,0.3,0.92
+BMS-265246,B cells,PCA ridge alpha=10.0,validation,0.3782306602447293,0.013842219887694138,0.04,0.48
+BMS-265246,Myeloid cells,PCA ridge alpha=10.0,validation,0.35796733899373984,0.21336784037246131,0.1,0.78
+Pomalidomide,B cells,PCA ridge alpha=10.0,validation,0.4061115480654678,-0.09166315974583834,0.08,0.36
+Pomalidomide,Myeloid cells,PCA ridge alpha=10.0,validation,0.29063694220800224,0.0031886575781950198,0.04,0.56
+Dovitinib,B cells,PCA ridge alpha=10.0,validation,0.329934045267749,0.525910608100709,0.32,0.94
+Dovitinib,Myeloid cells,PCA ridge alpha=10.0,validation,0.2995593723994372,0.15540386488100594,0.1,0.54
+Navitoclax,B cells,PCA ridge alpha=10.0,validation,0.6047046105693766,-0.0792072449068765,0.04,0.44
+Navitoclax,Myeloid cells,PCA ridge alpha=10.0,validation,0.3018997980357272,-0.17672751252064373,0.18,0.3
+Methotrexate,B cells,PCA ridge alpha=10.0,validation,0.3162450576959098,-0.24693846466938282,0.12,0.28
+Methotrexate,Myeloid cells,PCA ridge alpha=10.0,validation,0.24114522082393058,0.005635988102705299,0.06,0.56
+AMD-070 (hydrochloride),B cells,PCA ridge alpha=10.0,validation,0.31410078363727795,0.29550168557447803,0.16,0.68
+AMD-070 (hydrochloride),Myeloid cells,PCA ridge alpha=10.0,validation,0.24383630617485197,0.2353962021775476,0.22,0.72
+FK 866,B cells,PCA ridge alpha=10.0,validation,0.33288529859536425,0.29893488453733513,0.14,0.72
+FK 866,Myeloid cells,PCA ridge alpha=10.0,validation,0.3258799901497557,0.3073536919505236,0.04,0.92
+Scriptaid,B cells,PCA ridge alpha=10.0,validation,0.5587799761995991,0.7096373527961722,0.42,0.98
+Scriptaid,Myeloid cells,PCA ridge alpha=10.0,validation,0.5904683140814286,0.5402215587434146,0.28,0.92
+PF-04691502,B cells,PCA ridge alpha=10.0,validation,0.4480646931434271,0.635597654686201,0.4,0.94
+Isoniazid,B cells,PCA ridge alpha=10.0,validation,0.3006002420952876,0.2328798978561987,0.0,0.56
+Isoniazid,Myeloid cells,PCA ridge alpha=10.0,validation,0.21082022628115962,0.28258291667194424,0.12,0.8
+Quizartinib,B cells,PCA ridge alpha=10.0,validation,0.2916079046187908,0.10926316596043052,0.1,0.54
+Quizartinib,Myeloid cells,PCA ridge alpha=10.0,validation,0.22029717658921028,0.42701164617493503,0.14,0.92
+PD-0325901,B cells,PCA ridge alpha=10.0,validation,0.3206604202922428,0.5149240211024952,0.26,0.92
+PD-0325901,Myeloid cells,PCA ridge alpha=10.0,validation,0.4063255992250678,0.3311899956272153,0.16,0.8
+Riociguat,B cells,PCA ridge alpha=10.0,validation,0.2920581378948423,0.16408499390679676,0.1,0.6
+Riociguat,Myeloid cells,PCA ridge alpha=10.0,validation,0.20099814821836498,0.19650199065331628,0.1,0.68
+BI-D1870,B cells,PCA ridge alpha=10.0,validation,0.31941036465092243,0.11926844482618705,0.06,0.52
+BI-D1870,Myeloid cells,PCA ridge alpha=10.0,validation,0.26353656787611274,0.09201014850456099,0.06,0.44
+Azacitidine,B cells,PCA ridge alpha=10.0,validation,0.29458479840264046,0.2134996052786733,0.04,0.6
+Azacitidine,Myeloid cells,PCA ridge alpha=10.0,validation,0.20377965997819183,0.2723442066532624,0.26,0.72
+TR-14035,B cells,PCA ridge alpha=10.0,validation,0.289541017627388,0.38695781402018203,0.06,0.68
+TR-14035,Myeloid cells,PCA ridge alpha=10.0,validation,0.2111651002102187,0.2794671990265593,0.14,0.66
+AT 7867,B cells,PCA ridge alpha=10.0,validation,0.28094367553550437,0.5145966936380737,0.38,0.9
+AT 7867,Myeloid cells,PCA ridge alpha=10.0,validation,0.3050521530289732,0.40133145515508356,0.28,0.94
+GO-6976,B cells,PCA ridge alpha=10.0,validation,0.3548372984278719,0.09248153390984976,0.02,0.34
+GO-6976,Myeloid cells,PCA ridge alpha=10.0,validation,0.32712787239859376,0.13410594191624234,0.12,0.44
+TGX 221,B cells,PCA ridge alpha=10.0,validation,0.3058147472276308,0.6124596222293066,0.3,0.94
+TGX 221,Myeloid cells,PCA ridge alpha=10.0,validation,0.26101996809942557,0.46459036210784793,0.24,0.92
+Pitavastatin Calcium,B cells,PCA ridge alpha=10.0,validation,0.42705979376233605,0.011751857835164433,0.14,0.4
+Pitavastatin Calcium,Myeloid cells,PCA ridge alpha=10.0,validation,0.6736484839429394,0.24460585280089378,0.12,0.74
+ABT737,B cells,PCA ridge alpha=10.0,validation,0.6840841728056546,0.013966808080452874,0.1,0.58
+ABT737,Myeloid cells,PCA ridge alpha=10.0,validation,0.25772932312921765,0.10482764346217092,0.14,0.54
+PRT-062607,B cells,PCA ridge alpha=10.0,validation,0.43067224789383957,0.7104721482525153,0.52,0.94
+PRT-062607,Myeloid cells,PCA ridge alpha=10.0,validation,0.4902421208287806,0.5006021764312292,0.26,0.92
+AZ628,B cells,PCA ridge alpha=10.0,validation,0.35012698001073544,0.6435568934651495,0.44,0.88
+AZ628,Myeloid cells,PCA ridge alpha=10.0,validation,0.3765545624866023,0.32374359656045104,0.22,0.74
+Masitinib,B cells,PCA ridge alpha=10.0,validation,0.29895626869715314,0.44317917692401615,0.24,0.62
+Masitinib,Myeloid cells,PCA ridge alpha=10.0,validation,0.21622268292121902,0.46613718789867725,0.46,0.82
+STK219801,B cells,PCA ridge alpha=10.0,validation,0.29143346573315565,0.2892508685985478,0.08,0.48
+STK219801,Myeloid cells,PCA ridge alpha=10.0,validation,0.19950207042234655,0.332848662085552,0.22,0.82
+Ricolinostat,B cells,PCA ridge alpha=10.0,validation,0.3062498213002461,0.42881001804727154,0.34,0.82
+Ricolinostat,Myeloid cells,PCA ridge alpha=10.0,validation,0.26364109756169896,0.412538548992394,0.4,0.84
+Midostaurin,B cells,PCA ridge alpha=10.0,validation,0.3503474529115484,0.5097221514006216,0.32,0.88
+Midostaurin,Myeloid cells,PCA ridge alpha=10.0,validation,0.3245444433768781,0.3851430668795783,0.5,0.8
+CEP-37440,B cells,PCA ridge alpha=10.0,validation,0.27602120210560543,0.4078039266728317,0.16,0.74
+CEP-37440,Myeloid cells,PCA ridge alpha=10.0,validation,0.23411834634336576,0.2166270765597477,0.14,0.54
+Oxybenzone,B cells,PCA ridge alpha=10.0,validation,0.2825824425017495,0.2702443556007399,0.18,0.58
+Oxybenzone,Myeloid cells,PCA ridge alpha=10.0,validation,0.20190147778709971,0.25229704975892214,0.3,0.72
+Tivantinib,B cells,PCA ridge alpha=10.0,validation,0.3170475896611929,0.4169523687846387,0.14,0.74
+Tivantinib,Myeloid cells,PCA ridge alpha=10.0,validation,0.24227774790206502,0.3699187252020745,0.36,0.86
+Colchicine,B cells,PCA ridge alpha=10.0,validation,0.4898971337691529,0.11697928842083154,0.12,0.56
+Colchicine,Myeloid cells,PCA ridge alpha=10.0,validation,0.7975170109451968,0.2817780466870402,0.02,0.86
+BX 912,B cells,PCA ridge alpha=10.0,validation,0.31662696699558496,0.4667248240268697,0.34,0.78
+BX 912,Myeloid cells,PCA ridge alpha=10.0,validation,0.2658734194500177,0.3612163724100292,0.32,0.8
+Selumetinib,B cells,PCA ridge alpha=10.0,validation,0.3361774239698348,0.49966492695277487,0.22,0.74
+Selumetinib,Myeloid cells,PCA ridge alpha=10.0,validation,0.34048478817261524,0.3730181085197163,0.24,0.8
+RG7090,B cells,PCA ridge alpha=10.0,validation,0.3159629928666589,0.10140910670188136,0.04,0.52
+RG7090,Myeloid cells,PCA ridge alpha=10.0,validation,0.2579581746282105,0.16069571222606882,0.04,0.66
+GLPG0634,B cells,PCA ridge alpha=10.0,validation,0.3439988687762635,0.6289063565569456,0.58,0.96
+GLPG0634,Myeloid cells,PCA ridge alpha=10.0,validation,0.3013833890934965,0.5910713901221332,0.54,0.98
+MK-5108,B cells,Ridge alpha=100.0,validation,0.28128902733080813,0.24760183138647704,0.2,0.76
+MK-5108,Myeloid cells,Ridge alpha=100.0,validation,0.20878590032032937,0.2542736466081654,0.28,0.68
+Ganetespib (STA-9090),B cells,Ridge alpha=100.0,validation,0.7873346233172819,0.5526939506881183,0.32,0.94
+Ganetespib (STA-9090),Myeloid cells,Ridge alpha=100.0,validation,0.876231001141328,0.46386080489928705,0.34,0.88
+Sunitinib,B cells,Ridge alpha=100.0,validation,0.3458387706858683,0.3801448680378676,0.1,0.7
+Sunitinib,Myeloid cells,Ridge alpha=100.0,validation,0.24016156275425357,0.2059957363052428,0.2,0.58
+Tivozanib,B cells,Ridge alpha=100.0,validation,0.34165025946861766,0.3575985466051352,0.14,0.84
+Tivozanib,Myeloid cells,Ridge alpha=100.0,validation,0.22782814968544604,0.17115470489970863,0.04,0.76
+Tamatinib,B cells,Ridge alpha=100.0,validation,0.4745638838910941,0.6328029573644869,0.52,1.0
+Tamatinib,Myeloid cells,Ridge alpha=100.0,validation,0.6603781443419546,0.4960620296673644,0.28,0.96
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,B cells,Ridge alpha=100.0,validation,0.5025395846368168,0.6156369836514768,0.36,0.96
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,Myeloid cells,Ridge alpha=100.0,validation,0.726859755607818,0.37062503028092403,0.1,0.86
+I-BET151,B cells,Ridge alpha=100.0,validation,0.5388269490245543,0.46492638647682494,0.2,0.9
+I-BET151,Myeloid cells,Ridge alpha=100.0,validation,0.5336505086956836,0.386591165259367,0.08,0.92
+GW843682X,B cells,Ridge alpha=100.0,validation,0.27579973395893037,0.21718372251430929,0.02,0.5
+GW843682X,Myeloid cells,Ridge alpha=100.0,validation,0.2154553917742659,0.18072561756540356,0.06,0.64
+IN1451,B cells,Ridge alpha=100.0,validation,0.9469592997444057,0.40468772951586734,0.14,0.86
+IN1451,Myeloid cells,Ridge alpha=100.0,validation,0.9108839295804267,0.45584682268730514,0.24,0.9
+Raloxifene,B cells,Ridge alpha=100.0,validation,0.32592819934047834,0.034318931947129,0.02,0.46
+Raloxifene,Myeloid cells,Ridge alpha=100.0,validation,0.2884075092336507,0.05245365442717155,0.06,0.68
+Topotecan,B cells,Ridge alpha=100.0,validation,0.3278346274563142,0.09978719261438304,0.0,0.62
+Topotecan,Myeloid cells,Ridge alpha=100.0,validation,0.3799411085619646,0.12389497811816108,0.0,0.56
+BAY 87-2243,B cells,Ridge alpha=100.0,validation,0.3635638992249833,0.5220951310487508,0.28,0.94
+BAY 87-2243,Myeloid cells,Ridge alpha=100.0,validation,0.3599038964349583,0.2793607175396821,0.14,0.68
+TL_HRAS26,B cells,Ridge alpha=100.0,validation,0.306311591322353,0.25225262612837274,0.06,0.72
+TL_HRAS26,Myeloid cells,Ridge alpha=100.0,validation,0.23191798923774257,0.1013035134255352,0.06,0.64
+Proscillaridin A;Proscillaridin-A,B cells,Ridge alpha=100.0,validation,0.6746028126673609,0.2956473867975865,0.12,0.82
+BMS-265246,B cells,Ridge alpha=100.0,validation,0.38116636707087925,-0.06983495941218675,0.06,0.38
+BMS-265246,Myeloid cells,Ridge alpha=100.0,validation,0.37500307341904815,0.049923950449681107,0.06,0.64
+Pomalidomide,B cells,Ridge alpha=100.0,validation,0.4114011263521835,-0.1644902751815603,0.06,0.16
+Pomalidomide,Myeloid cells,Ridge alpha=100.0,validation,0.2971776282759536,-0.05017166267361851,0.02,0.48
+Dovitinib,B cells,Ridge alpha=100.0,validation,0.34800469162300046,0.44034395847333185,0.24,0.84
+Dovitinib,Myeloid cells,Ridge alpha=100.0,validation,0.2994700971791782,0.11803413939175783,0.08,0.62
+Navitoclax,B cells,Ridge alpha=100.0,validation,0.6049974539031163,-0.12307867736333203,0.04,0.46
+Navitoclax,Myeloid cells,Ridge alpha=100.0,validation,0.3030486149151259,-0.19611122493099328,0.08,0.3
+Methotrexate,B cells,Ridge alpha=100.0,validation,0.3127338309494601,-0.26951564124904487,0.16,0.28
+Methotrexate,Myeloid cells,Ridge alpha=100.0,validation,0.25011736638843923,-0.07281093683556451,0.14,0.44
+AMD-070 (hydrochloride),B cells,Ridge alpha=100.0,validation,0.3173843587649035,0.25520587516944554,0.12,0.62
+AMD-070 (hydrochloride),Myeloid cells,Ridge alpha=100.0,validation,0.24302457897003932,0.2287202621009416,0.26,0.64
+FK 866,B cells,Ridge alpha=100.0,validation,0.3421962282109013,0.20723273002584844,0.08,0.68
+FK 866,Myeloid cells,Ridge alpha=100.0,validation,0.34557582336008164,0.12649665886352254,0.04,0.68
+Scriptaid,B cells,Ridge alpha=100.0,validation,0.6208115970199365,0.518750414740877,0.36,0.96
+Scriptaid,Myeloid cells,Ridge alpha=100.0,validation,0.6270200539673393,0.38392182137235453,0.2,0.9
+PF-04691502,B cells,Ridge alpha=100.0,validation,0.4798651926639518,0.5181679944280162,0.24,0.86
+Isoniazid,B cells,Ridge alpha=100.0,validation,0.3030779627262688,0.18563315528666965,0.0,0.48
+Isoniazid,Myeloid cells,Ridge alpha=100.0,validation,0.21397099124490349,0.2473786231886165,0.04,0.68
+Quizartinib,B cells,Ridge alpha=100.0,validation,0.288237113907276,0.0886505429899452,0.12,0.62
+Quizartinib,Myeloid cells,Ridge alpha=100.0,validation,0.2399941989862076,0.2562605638001318,0.08,0.64
+PD-0325901,B cells,Ridge alpha=100.0,validation,0.3374953642320777,0.4330162538521604,0.2,0.88
+PD-0325901,Myeloid cells,Ridge alpha=100.0,validation,0.4219953004945163,0.20322466029830336,0.08,0.66
+Riociguat,B cells,Ridge alpha=100.0,validation,0.2882702923880193,0.15444261831275774,0.1,0.54
+Riociguat,Myeloid cells,Ridge alpha=100.0,validation,0.19482968590615427,0.24338644226585132,0.06,0.62
+BI-D1870,B cells,Ridge alpha=100.0,validation,0.3225169093844899,0.06664020248229582,0.08,0.64
+BI-D1870,Myeloid cells,Ridge alpha=100.0,validation,0.26877669170457436,0.026501602059554163,0.04,0.5
+Azacitidine,B cells,Ridge alpha=100.0,validation,0.2912508703954293,0.198250519000436,0.06,0.64
+Azacitidine,Myeloid cells,Ridge alpha=100.0,validation,0.19931920589613797,0.2915444723669653,0.3,0.74
+TR-14035,B cells,Ridge alpha=100.0,validation,0.2968037099523626,0.32802352761873393,0.06,0.66
+TR-14035,Myeloid cells,Ridge alpha=100.0,validation,0.20906402125672643,0.27564312934736124,0.12,0.74
+AT 7867,B cells,Ridge alpha=100.0,validation,0.2944361116037802,0.4480871046231265,0.4,0.8
+AT 7867,Myeloid cells,Ridge alpha=100.0,validation,0.31546475019874815,0.3199727040462223,0.3,0.82
+GO-6976,B cells,Ridge alpha=100.0,validation,0.366632337771513,-0.03314802767953964,0.1,0.34
+GO-6976,Myeloid cells,Ridge alpha=100.0,validation,0.3448352351470372,-0.054910090325021664,0.12,0.62
+TGX 221,B cells,Ridge alpha=100.0,validation,0.33024438218655816,0.5104819745218565,0.24,0.9
+TGX 221,Myeloid cells,Ridge alpha=100.0,validation,0.270280819040643,0.4023970187863865,0.14,0.8
+Pitavastatin Calcium,B cells,Ridge alpha=100.0,validation,0.4472348693046877,-0.21778136139485438,0.22,0.36
+Pitavastatin Calcium,Myeloid cells,Ridge alpha=100.0,validation,0.7109911864564372,-0.11442839897032932,0.02,0.34
+ABT737,B cells,Ridge alpha=100.0,validation,0.6848589205699797,-0.03778115662102206,0.06,0.46
+ABT737,Myeloid cells,Ridge alpha=100.0,validation,0.2601783613394999,0.05944328818431174,0.1,0.54
+PRT-062607,B cells,Ridge alpha=100.0,validation,0.4667087442348708,0.6144706320264485,0.48,0.94
+PRT-062607,Myeloid cells,Ridge alpha=100.0,validation,0.5093374232166604,0.40387822714678834,0.16,0.88
+AZ628,B cells,Ridge alpha=100.0,validation,0.3788998150678875,0.5363183652497747,0.36,0.84
+AZ628,Myeloid cells,Ridge alpha=100.0,validation,0.3818716623335242,0.27896901067874885,0.14,0.78
+Masitinib,B cells,Ridge alpha=100.0,validation,0.3112175406258943,0.3644916737246229,0.22,0.6
+Masitinib,Myeloid cells,Ridge alpha=100.0,validation,0.21865602613094673,0.4488985509809685,0.46,0.86
+STK219801,B cells,Ridge alpha=100.0,validation,0.29237298369894515,0.2699968244929508,0.1,0.44
+STK219801,Myeloid cells,Ridge alpha=100.0,validation,0.2010435338451922,0.3193754323448896,0.2,0.74
+Ricolinostat,B cells,Ridge alpha=100.0,validation,0.3163506395858565,0.36333053227023343,0.34,0.86
+Ricolinostat,Myeloid cells,Ridge alpha=100.0,validation,0.27682741409225353,0.30096957711042166,0.44,0.76
+Midostaurin,B cells,Ridge alpha=100.0,validation,0.36836704513248575,0.4314375055981256,0.32,0.84
+Midostaurin,Myeloid cells,Ridge alpha=100.0,validation,0.324385858863176,0.39715189337566037,0.5,0.86
+CEP-37440,B cells,Ridge alpha=100.0,validation,0.28453735893784143,0.34054634541018164,0.18,0.66
+CEP-37440,Myeloid cells,Ridge alpha=100.0,validation,0.23785574611401647,0.14855612135959928,0.1,0.58
+Oxybenzone,B cells,Ridge alpha=100.0,validation,0.2817620633354584,0.25408915154129275,0.18,0.54
+Oxybenzone,Myeloid cells,Ridge alpha=100.0,validation,0.19565638100203822,0.2932717017788867,0.34,0.82
+Tivantinib,B cells,Ridge alpha=100.0,validation,0.3275555632515587,0.3500271246507192,0.12,0.72
+Tivantinib,Myeloid cells,Ridge alpha=100.0,validation,0.24173941096608398,0.3704570542582661,0.42,0.82
+Colchicine,B cells,Ridge alpha=100.0,validation,0.4914927796890402,0.0803062267884585,0.04,0.56
+Colchicine,Myeloid cells,Ridge alpha=100.0,validation,0.8201731140294388,0.09080288083527033,0.0,0.56
+BX 912,B cells,Ridge alpha=100.0,validation,0.3289007977469631,0.4037149585010683,0.34,0.8
+BX 912,Myeloid cells,Ridge alpha=100.0,validation,0.26337376679325725,0.36992682081713285,0.34,0.84
+Selumetinib,B cells,Ridge alpha=100.0,validation,0.3516228622313175,0.42159082305798656,0.18,0.66
+Selumetinib,Myeloid cells,Ridge alpha=100.0,validation,0.3559740759836403,0.2404324151412181,0.12,0.76
+RG7090,B cells,Ridge alpha=100.0,validation,0.3197404875532709,0.0376890224813704,0.1,0.62
+RG7090,Myeloid cells,Ridge alpha=100.0,validation,0.2775300276867688,-0.039965152020403884,0.06,0.44
+GLPG0634,B cells,Ridge alpha=100.0,validation,0.3683363592677726,0.5534666926309683,0.5,0.98
+GLPG0634,Myeloid cells,Ridge alpha=100.0,validation,0.3177042914442723,0.5100442558898549,0.52,0.9
+MK-5108,B cells,PCA ridge alpha=100.0,validation,0.28249533319157094,0.23652704130767546,0.2,0.7
+MK-5108,Myeloid cells,PCA ridge alpha=100.0,validation,0.209417118175841,0.24793469420120973,0.28,0.68
+Ganetespib (STA-9090),B cells,PCA ridge alpha=100.0,validation,0.7885177671876669,0.543873680523503,0.34,0.92
+Ganetespib (STA-9090),Myeloid cells,PCA ridge alpha=100.0,validation,0.8768088084795088,0.4596786367480091,0.34,0.9
+Sunitinib,B cells,PCA ridge alpha=100.0,validation,0.34767629699950225,0.36469179561305093,0.1,0.68
+Sunitinib,Myeloid cells,PCA ridge alpha=100.0,validation,0.240575569708491,0.20150730326656852,0.2,0.58
+Tivozanib,B cells,PCA ridge alpha=100.0,validation,0.3429781051229537,0.3460131257675752,0.14,0.86
+Tivozanib,Myeloid cells,PCA ridge alpha=100.0,validation,0.22894193491230957,0.15913938596804172,0.04,0.78
+Tamatinib,B cells,PCA ridge alpha=100.0,validation,0.4754328157800366,0.6264516895766877,0.52,1.0
+Tamatinib,Myeloid cells,PCA ridge alpha=100.0,validation,0.6617173353564577,0.48502968566932836,0.26,0.92
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,B cells,PCA ridge alpha=100.0,validation,0.5031283176380453,0.6113919790441577,0.36,0.96
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,Myeloid cells,PCA ridge alpha=100.0,validation,0.7272445062739172,0.3676073011905805,0.08,0.8
+I-BET151,B cells,PCA ridge alpha=100.0,validation,0.5405337171812401,0.4514907456688357,0.2,0.88
+I-BET151,Myeloid cells,PCA ridge alpha=100.0,validation,0.5346503395172257,0.37813613365096904,0.08,0.94
+GW843682X,B cells,PCA ridge alpha=100.0,validation,0.2771676607594976,0.20409963089273972,0.02,0.48
+GW843682X,Myeloid cells,PCA ridge alpha=100.0,validation,0.21624970544422378,0.171729160848699,0.04,0.62
+IN1451,B cells,PCA ridge alpha=100.0,validation,0.9476071729927781,0.40034082706023977,0.14,0.86
+IN1451,Myeloid cells,PCA ridge alpha=100.0,validation,0.9120037934195739,0.44681948365421953,0.26,0.88
+Raloxifene,B cells,PCA ridge alpha=100.0,validation,0.32718759670707465,0.021184118557869915,0.04,0.48
+Raloxifene,Myeloid cells,PCA ridge alpha=100.0,validation,0.29088745184472575,0.025486245460889356,0.04,0.64
+Topotecan,B cells,PCA ridge alpha=100.0,validation,0.32930826895142895,0.08523292519173616,0.0,0.6
+Topotecan,Myeloid cells,PCA ridge alpha=100.0,validation,0.3808760106877177,0.11355564949725232,0.0,0.54
+BAY 87-2243,B cells,PCA ridge alpha=100.0,validation,0.364350469410994,0.5161456594663036,0.28,0.94
+BAY 87-2243,Myeloid cells,PCA ridge alpha=100.0,validation,0.361337376368824,0.26542547969258845,0.14,0.66
+TL_HRAS26,B cells,PCA ridge alpha=100.0,validation,0.3072191046737176,0.24365870216389576,0.04,0.7
+TL_HRAS26,Myeloid cells,PCA ridge alpha=100.0,validation,0.2318801079966993,0.10121485605131492,0.04,0.64
+Proscillaridin A;Proscillaridin-A,B cells,PCA ridge alpha=100.0,validation,0.6754399563483293,0.28874406394789237,0.12,0.82
+BMS-265246,B cells,PCA ridge alpha=100.0,validation,0.3823612967255413,-0.08202465390133098,0.06,0.4
+BMS-265246,Myeloid cells,PCA ridge alpha=100.0,validation,0.37672811846779547,0.03134274427900161,0.06,0.62
+Pomalidomide,B cells,PCA ridge alpha=100.0,validation,0.41342282342429043,-0.18664890256154057,0.06,0.16
+Pomalidomide,Myeloid cells,PCA ridge alpha=100.0,validation,0.29770073060431107,-0.05747534798580469,0.02,0.5
+Dovitinib,B cells,PCA ridge alpha=100.0,validation,0.3492581324242865,0.42973083931647443,0.24,0.84
+Dovitinib,Myeloid cells,PCA ridge alpha=100.0,validation,0.3012377024730767,0.1004332432919394,0.06,0.6
+Navitoclax,B cells,PCA ridge alpha=100.0,validation,0.6055329723725478,-0.12858921007610738,0.04,0.4
+Navitoclax,Myeloid cells,PCA ridge alpha=100.0,validation,0.30431596490089047,-0.21184412650029888,0.06,0.36
+Methotrexate,B cells,PCA ridge alpha=100.0,validation,0.31368657500033154,-0.2796942085189305,0.16,0.28
+Methotrexate,Myeloid cells,PCA ridge alpha=100.0,validation,0.25045554970502193,-0.07746724517653113,0.14,0.44
+AMD-070 (hydrochloride),B cells,PCA ridge alpha=100.0,validation,0.3186050506718536,0.24388300591630638,0.16,0.58
+AMD-070 (hydrochloride),Myeloid cells,PCA ridge alpha=100.0,validation,0.2443001714176624,0.21607029280486362,0.26,0.64
+FK 866,B cells,PCA ridge alpha=100.0,validation,0.3434060670547696,0.1963677129152211,0.08,0.72
+FK 866,Myeloid cells,PCA ridge alpha=100.0,validation,0.3470422867320327,0.11060441716980571,0.04,0.6
+Scriptaid,B cells,PCA ridge alpha=100.0,validation,0.6217218513369007,0.5116990983044885,0.34,0.98
+Scriptaid,Myeloid cells,PCA ridge alpha=100.0,validation,0.6286913641676237,0.3690644943218085,0.22,0.9
+PF-04691502,B cells,PCA ridge alpha=100.0,validation,0.48079869718458723,0.5103521143702512,0.26,0.86
+Isoniazid,B cells,PCA ridge alpha=100.0,validation,0.3044192044035993,0.17275159005384438,0.0,0.46
+Isoniazid,Myeloid cells,PCA ridge alpha=100.0,validation,0.21558499059651828,0.23055040482188444,0.02,0.66
+Quizartinib,B cells,PCA ridge alpha=100.0,validation,0.2897605971727315,0.0736790582784957,0.1,0.62
+Quizartinib,Myeloid cells,PCA ridge alpha=100.0,validation,0.24184429980206798,0.23709238250429301,0.08,0.58
+PD-0325901,B cells,PCA ridge alpha=100.0,validation,0.3387219060848466,0.42277594451389544,0.2,0.88
+PD-0325901,Myeloid cells,PCA ridge alpha=100.0,validation,0.4234377217710892,0.18922378363050207,0.06,0.66
+Riociguat,B cells,PCA ridge alpha=100.0,validation,0.28970848006387934,0.140595108058414,0.1,0.54
+Riociguat,Myeloid cells,PCA ridge alpha=100.0,validation,0.19543056710093767,0.2365958209656478,0.06,0.6
+BI-D1870,B cells,PCA ridge alpha=100.0,validation,0.32364156054181636,0.05510847813788837,0.08,0.58
+BI-D1870,Myeloid cells,PCA ridge alpha=100.0,validation,0.27051355442093816,0.00794777968429087,0.04,0.5
+Azacitidine,B cells,PCA ridge alpha=100.0,validation,0.2927478642120618,0.1846213325908082,0.06,0.66
+Azacitidine,Myeloid cells,PCA ridge alpha=100.0,validation,0.1991074933625587,0.2934004778680171,0.28,0.72
+TR-14035,B cells,PCA ridge alpha=100.0,validation,0.29806026537706276,0.3165669597424237,0.04,0.64
+TR-14035,Myeloid cells,PCA ridge alpha=100.0,validation,0.2107016658627736,0.25966366363657784,0.1,0.72
+AT 7867,B cells,PCA ridge alpha=100.0,validation,0.29579999334227686,0.4363973597030893,0.4,0.82
+AT 7867,Myeloid cells,PCA ridge alpha=100.0,validation,0.3178164716506117,0.29818037549927423,0.3,0.78
+GO-6976,B cells,PCA ridge alpha=100.0,validation,0.36753071559834133,-0.04306377412406066,0.08,0.32
+GO-6976,Myeloid cells,PCA ridge alpha=100.0,validation,0.34645642972844987,-0.07220091324945704,0.1,0.62
+TGX 221,B cells,PCA ridge alpha=100.0,validation,0.3316148362703496,0.4994068572588689,0.24,0.9
+TGX 221,Myeloid cells,PCA ridge alpha=100.0,validation,0.27161366134327986,0.3904237239969496,0.12,0.8
+Pitavastatin Calcium,B cells,PCA ridge alpha=100.0,validation,0.44850349442111714,-0.23142589583663553,0.24,0.34
+Pitavastatin Calcium,Myeloid cells,PCA ridge alpha=100.0,validation,0.7129742277523875,-0.13581363460910956,0.02,0.3
+ABT737,B cells,PCA ridge alpha=100.0,validation,0.685418007224353,-0.042078016255912565,0.08,0.46
+ABT737,Myeloid cells,PCA ridge alpha=100.0,validation,0.2624957282343152,0.0347353475370423,0.12,0.5
+PRT-062607,B cells,PCA ridge alpha=100.0,validation,0.46777479677795286,0.6061733706988596,0.48,0.94
+PRT-062607,Myeloid cells,PCA ridge alpha=100.0,validation,0.5115529814237826,0.38419175899715297,0.12,0.84
+AZ628,B cells,PCA ridge alpha=100.0,validation,0.38004722918015676,0.5267931237081198,0.4,0.84
+AZ628,Myeloid cells,PCA ridge alpha=100.0,validation,0.3838638858471459,0.2607766941564666,0.12,0.74
+Masitinib,B cells,PCA ridge alpha=100.0,validation,0.3125228543007617,0.3527253607698483,0.22,0.58
+Masitinib,Myeloid cells,PCA ridge alpha=100.0,validation,0.2198932686438698,0.43805238579043376,0.44,0.84
+STK219801,B cells,PCA ridge alpha=100.0,validation,0.29389516094897744,0.25552631556481825,0.1,0.48
+STK219801,Myeloid cells,PCA ridge alpha=100.0,validation,0.2019841272808206,0.30971949833882556,0.16,0.76
+Ricolinostat,B cells,PCA ridge alpha=100.0,validation,0.3175795845064188,0.3524675335086552,0.34,0.86
+Ricolinostat,Myeloid cells,PCA ridge alpha=100.0,validation,0.27825624665593407,0.2873387786835066,0.44,0.76
+Midostaurin,B cells,PCA ridge alpha=100.0,validation,0.3695935242382737,0.42099646385562706,0.34,0.84
+Midostaurin,Myeloid cells,PCA ridge alpha=100.0,validation,0.32558730000962804,0.3867562825144228,0.5,0.86
+CEP-37440,B cells,PCA ridge alpha=100.0,validation,0.2856873262415197,0.33000198220696425,0.18,0.68
+CEP-37440,Myeloid cells,PCA ridge alpha=100.0,validation,0.23846680619601376,0.14194092062254085,0.08,0.62
+Oxybenzone,B cells,PCA ridge alpha=100.0,validation,0.2832941800010575,0.2396706855917458,0.18,0.56
+Oxybenzone,Myeloid cells,PCA ridge alpha=100.0,validation,0.19708778287144121,0.2789374692714845,0.34,0.82
+Tivantinib,B cells,PCA ridge alpha=100.0,validation,0.32847935027469904,0.3415011423193432,0.12,0.72
+Tivantinib,Myeloid cells,PCA ridge alpha=100.0,validation,0.2432929719346342,0.3561753546693288,0.42,0.84
+Colchicine,B cells,PCA ridge alpha=100.0,validation,0.4931165004842739,0.06466505809737332,0.06,0.56
+Colchicine,Myeloid cells,PCA ridge alpha=100.0,validation,0.8225647542385828,0.06615246323639169,0.0,0.52
+BX 912,B cells,PCA ridge alpha=100.0,validation,0.33051420428026423,0.3900504116973983,0.32,0.78
+BX 912,Myeloid cells,PCA ridge alpha=100.0,validation,0.26501444723966877,0.3556251768442252,0.34,0.84
+Selumetinib,B cells,PCA ridge alpha=100.0,validation,0.3530276699681896,0.40924797006596697,0.18,0.66
+Selumetinib,Myeloid cells,PCA ridge alpha=100.0,validation,0.3570557942578892,0.23008929694190178,0.08,0.72
+RG7090,B cells,PCA ridge alpha=100.0,validation,0.3209932171404668,0.024980102719077246,0.1,0.58
+RG7090,Myeloid cells,PCA ridge alpha=100.0,validation,0.27971893317533925,-0.06478228989956872,0.06,0.4
+GLPG0634,B cells,PCA ridge alpha=100.0,validation,0.36910552631502086,0.5473233819048215,0.52,0.98
+GLPG0634,Myeloid cells,PCA ridge alpha=100.0,validation,0.3195642643944435,0.4946609946872964,0.52,0.9
+MK-5108,B cells,PyTorch epochs=100 decay=0.05,validation,0.29596566030242993,0.24194421461440524,0.22,0.72
+MK-5108,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.2424721878387567,0.23153071963503838,0.34,0.5
+Ganetespib (STA-9090),B cells,PyTorch epochs=100 decay=0.05,validation,0.6081273353421384,0.6954366603258015,0.42,1.0
+Ganetespib (STA-9090),Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.805449719138448,0.5091427117122408,0.32,0.92
+Sunitinib,B cells,PyTorch epochs=100 decay=0.05,validation,0.3541788124778055,0.3605180761384263,0.1,0.66
+Sunitinib,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.26851903311172665,0.23944303855929275,0.22,0.8
+Tivozanib,B cells,PyTorch epochs=100 decay=0.05,validation,0.33577080134223247,0.39380703338127426,0.18,0.78
+Tivozanib,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.2401433371836458,0.1889468499405361,0.08,0.66
+Tamatinib,B cells,PyTorch epochs=100 decay=0.05,validation,0.3616494184991336,0.7437191577572672,0.58,1.0
+Tamatinib,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.554016999553794,0.6343340412066548,0.4,1.0
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,B cells,PyTorch epochs=100 decay=0.05,validation,0.3791663495467744,0.7472301894264491,0.56,0.98
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.606785956811524,0.6175270089025986,0.32,0.94
+I-BET151,B cells,PyTorch epochs=100 decay=0.05,validation,0.4612114080314692,0.6427354424544275,0.36,1.0
+I-BET151,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.5078672418830187,0.5168664912219675,0.18,0.9
+GW843682X,B cells,PyTorch epochs=100 decay=0.05,validation,0.27548043528364746,0.30236422558927023,0.12,0.62
+GW843682X,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.22982886189107182,0.23178384992292111,0.24,0.54
+IN1451,B cells,PyTorch epochs=100 decay=0.05,validation,0.7023587219379239,0.7194955973268105,0.28,0.98
+IN1451,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.7195124112312198,0.6789793527410584,0.18,0.94
+Raloxifene,B cells,PyTorch epochs=100 decay=0.05,validation,0.3273128068916476,0.18316038139217697,0.06,0.54
+Raloxifene,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.2867580726079934,0.3081813264347928,0.2,0.82
+Topotecan,B cells,PyTorch epochs=100 decay=0.05,validation,0.33729669844437365,0.27888595108902486,0.22,0.74
+Topotecan,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.37201183347899386,0.31345227362765,0.18,0.86
+BAY 87-2243,B cells,PyTorch epochs=100 decay=0.05,validation,0.3560068186321387,0.561200021484657,0.26,0.98
+BAY 87-2243,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.3637172348422058,0.46954574994737125,0.16,0.86
+TL_HRAS26,B cells,PyTorch epochs=100 decay=0.05,validation,0.3112944896741911,0.2743332842602133,0.06,0.7
+TL_HRAS26,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.24401185314889048,0.11423712014080234,0.16,0.56
+Proscillaridin A;Proscillaridin-A,B cells,PyTorch epochs=100 decay=0.05,validation,0.5465567432078116,0.7255568098929263,0.24,0.92
+BMS-265246,B cells,PyTorch epochs=100 decay=0.05,validation,0.3513899539810597,0.372376850233859,0.08,0.76
+BMS-265246,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.35819972235711045,0.3422279904941268,0.08,0.78
+Pomalidomide,B cells,PyTorch epochs=100 decay=0.05,validation,0.37772119672597604,0.2679920841784444,0.14,0.74
+Pomalidomide,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.31084515267523355,0.17384178637408632,0.04,0.72
+Dovitinib,B cells,PyTorch epochs=100 decay=0.05,validation,0.3258318519848322,0.5380711877040006,0.34,0.96
+Dovitinib,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.34258770178166803,0.18895062219919426,0.18,0.64
+Navitoclax,B cells,PyTorch epochs=100 decay=0.05,validation,0.59339417884077,0.1501869691093713,0.1,0.66
+Navitoclax,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.3171437244140454,0.07823667677904071,0.06,0.54
+Methotrexate,B cells,PyTorch epochs=100 decay=0.05,validation,0.284077086525595,0.07997646763723217,0.1,0.56
+Methotrexate,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.2405362507375214,0.1488481434184603,0.12,0.74
+AMD-070 (hydrochloride),B cells,PyTorch epochs=100 decay=0.05,validation,0.3207583824229415,0.28787168872032576,0.2,0.78
+AMD-070 (hydrochloride),Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.25370969851102226,0.262530903012706,0.34,0.76
+FK 866,B cells,PyTorch epochs=100 decay=0.05,validation,0.3435030320585208,0.30765938744849,0.04,0.8
+FK 866,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.32849137599287714,0.38090175909816243,0.02,0.98
+Scriptaid,B cells,PyTorch epochs=100 decay=0.05,validation,0.4019666803121983,0.8041644251225409,0.5,1.0
+Scriptaid,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.5372763496541292,0.6036609992075078,0.32,0.96
+PF-04691502,B cells,PyTorch epochs=100 decay=0.05,validation,0.4136541864328033,0.6204639328448776,0.54,0.94
+Isoniazid,B cells,PyTorch epochs=100 decay=0.05,validation,0.301396436192181,0.24647116961498708,0.02,0.58
+Isoniazid,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.22679027096178908,0.25147491186739146,0.18,0.8
+Quizartinib,B cells,PyTorch epochs=100 decay=0.05,validation,0.28893048471955696,0.16967606393873644,0.12,0.52
+Quizartinib,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.22183220253052574,0.4236150365957609,0.22,0.98
+PD-0325901,B cells,PyTorch epochs=100 decay=0.05,validation,0.3372555266725427,0.4886044361537087,0.3,0.88
+PD-0325901,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.4190193258229407,0.37373620800780943,0.22,0.78
+Riociguat,B cells,PyTorch epochs=100 decay=0.05,validation,0.2974664161318182,0.16216019167920784,0.16,0.6
+Riociguat,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.21835775828933268,0.13183916745342994,0.1,0.62
+BI-D1870,B cells,PyTorch epochs=100 decay=0.05,validation,0.3134320583958655,0.23378807944082453,0.08,0.56
+BI-D1870,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.27102895261140175,0.24837900002068486,0.08,0.54
+Azacitidine,B cells,PyTorch epochs=100 decay=0.05,validation,0.3059818240084575,0.2229176110159087,0.04,0.52
+Azacitidine,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.2322216852245971,0.22507262146668974,0.2,0.62
+TR-14035,B cells,PyTorch epochs=100 decay=0.05,validation,0.29361343509932775,0.40492607986624046,0.04,0.7
+TR-14035,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.2395438263540349,0.25664162498080945,0.14,0.56
+AT 7867,B cells,PyTorch epochs=100 decay=0.05,validation,0.2892489713008975,0.5206586002052184,0.42,0.88
+AT 7867,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.32531142512948064,0.36977081996253275,0.36,0.88
+GO-6976,B cells,PyTorch epochs=100 decay=0.05,validation,0.3492791033908529,0.27234375589381704,0.1,0.58
+GO-6976,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.3109394911402721,0.4024962832735228,0.18,0.74
+TGX 221,B cells,PyTorch epochs=100 decay=0.05,validation,0.2973417631188245,0.6104614836470703,0.26,0.98
+TGX 221,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.28891138447523096,0.46034174503591274,0.24,0.92
+Pitavastatin Calcium,B cells,PyTorch epochs=100 decay=0.05,validation,0.40184987286731577,0.49982890094437643,0.22,0.9
+Pitavastatin Calcium,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.6171493711383367,0.47877707574098954,0.3,0.92
+ABT737,B cells,PyTorch epochs=100 decay=0.05,validation,0.68822784910369,0.1143297559136028,0.2,0.64
+ABT737,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.2993371533257369,0.07450583894258232,0.14,0.46
+PRT-062607,B cells,PyTorch epochs=100 decay=0.05,validation,0.36579421318973687,0.7257839098044158,0.64,0.96
+PRT-062607,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.46038180354856956,0.5308516868362855,0.22,0.94
+AZ628,B cells,PyTorch epochs=100 decay=0.05,validation,0.3241057098311734,0.6484602877042298,0.38,0.9
+AZ628,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.39717619198476495,0.328399304741049,0.2,0.68
+Masitinib,B cells,PyTorch epochs=100 decay=0.05,validation,0.3024947395691991,0.45139877374097503,0.24,0.76
+Masitinib,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.23616789807926872,0.44731431284103107,0.48,0.82
+STK219801,B cells,PyTorch epochs=100 decay=0.05,validation,0.3034974546773882,0.2525909465539145,0.06,0.54
+STK219801,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.22544655972834585,0.26749227856377816,0.2,0.76
+Ricolinostat,B cells,PyTorch epochs=100 decay=0.05,validation,0.3111507555519868,0.48201725042220833,0.38,0.84
+Ricolinostat,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.2769637161888769,0.47780433218885926,0.36,0.84
+Midostaurin,B cells,PyTorch epochs=100 decay=0.05,validation,0.3491359119467383,0.5350997788238456,0.4,0.9
+Midostaurin,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.3547010493995976,0.4133069795022067,0.5,0.8
+CEP-37440,B cells,PyTorch epochs=100 decay=0.05,validation,0.28647852159653153,0.4143601216845165,0.2,0.76
+CEP-37440,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.28279036743145286,0.21751776402112627,0.16,0.5
+Oxybenzone,B cells,PyTorch epochs=100 decay=0.05,validation,0.2887099164455577,0.27434368881738275,0.16,0.62
+Oxybenzone,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.23533704584922208,0.21266107337392443,0.22,0.62
+Tivantinib,B cells,PyTorch epochs=100 decay=0.05,validation,0.32090909863817624,0.4344032799123066,0.18,0.72
+Tivantinib,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.2715353229357679,0.3562681037500892,0.34,0.84
+Colchicine,B cells,PyTorch epochs=100 decay=0.05,validation,0.4736675694573603,0.26622560047502625,0.08,0.8
+Colchicine,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.7512487745117,0.4313452459153142,0.2,0.84
+BX 912,B cells,PyTorch epochs=100 decay=0.05,validation,0.33220291604119856,0.47953490158310125,0.36,0.8
+BX 912,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.31733269594799307,0.34743563571135583,0.26,0.7
+Selumetinib,B cells,PyTorch epochs=100 decay=0.05,validation,0.33605308390839367,0.4857183832893723,0.18,0.82
+Selumetinib,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.33837243973482456,0.4192689564457006,0.2,0.82
+RG7090,B cells,PyTorch epochs=100 decay=0.05,validation,0.3097189552964199,0.2589438158973522,0.12,0.64
+RG7090,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.2461219379444706,0.4041403511651436,0.06,0.9
+GLPG0634,B cells,PyTorch epochs=100 decay=0.05,validation,0.31852193987873145,0.6488422693499283,0.58,0.98
+GLPG0634,Myeloid cells,PyTorch epochs=100 decay=0.05,validation,0.292487188478853,0.5997272070021076,0.58,1.0
+MK-5108,B cells,PyTorch epochs=250 decay=0.05,validation,0.2946328937238522,0.241643300906684,0.2,0.66
+MK-5108,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.24265533194157035,0.23265074745538813,0.34,0.52
+Ganetespib (STA-9090),B cells,PyTorch epochs=250 decay=0.05,validation,0.6094684922266645,0.6992731316644012,0.42,1.0
+Ganetespib (STA-9090),Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.8056124356512306,0.5240322831905405,0.32,0.96
+Sunitinib,B cells,PyTorch epochs=250 decay=0.05,validation,0.3509406802193975,0.3793630557532678,0.1,0.6
+Sunitinib,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.2805795933450265,0.23750648448118575,0.24,0.82
+Tivozanib,B cells,PyTorch epochs=250 decay=0.05,validation,0.3348393605002397,0.400181997727948,0.18,0.78
+Tivozanib,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.23791922249409095,0.1794896490244008,0.08,0.66
+Tamatinib,B cells,PyTorch epochs=250 decay=0.05,validation,0.3484838966312333,0.7628371350952245,0.66,1.0
+Tamatinib,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.544697403888193,0.6406471458657848,0.42,1.0
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,B cells,PyTorch epochs=250 decay=0.05,validation,0.36978404442526036,0.7547221067061805,0.54,1.0
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.594657484902911,0.6231779321376636,0.34,0.94
+I-BET151,B cells,PyTorch epochs=250 decay=0.05,validation,0.4606851438360626,0.6472314205430961,0.34,1.0
+I-BET151,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.5098383259392607,0.5178186972199155,0.16,0.92
+GW843682X,B cells,PyTorch epochs=250 decay=0.05,validation,0.2770759859545552,0.3126828189054405,0.08,0.6
+GW843682X,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.24058521364232516,0.22897279318521785,0.22,0.58
+IN1451,B cells,PyTorch epochs=250 decay=0.05,validation,0.7020285476606145,0.7371631196349054,0.26,0.98
+IN1451,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.7238867860687999,0.68188838094765,0.2,0.96
+Raloxifene,B cells,PyTorch epochs=250 decay=0.05,validation,0.32535381082397935,0.19060547315995505,0.06,0.52
+Raloxifene,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.2851065378566991,0.3010043315884863,0.18,0.82
+Topotecan,B cells,PyTorch epochs=250 decay=0.05,validation,0.33293415144384775,0.2879297012656389,0.18,0.76
+Topotecan,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.3790394333502887,0.31862894114822055,0.2,0.88
+BAY 87-2243,B cells,PyTorch epochs=250 decay=0.05,validation,0.35627776647412723,0.5695520846741853,0.32,0.96
+BAY 87-2243,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.3884513693707683,0.4835489154904639,0.14,0.84
+TL_HRAS26,B cells,PyTorch epochs=250 decay=0.05,validation,0.3090134850222769,0.2879484372654168,0.08,0.74
+TL_HRAS26,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.25036512998793736,0.1153816812171553,0.16,0.56
+Proscillaridin A;Proscillaridin-A,B cells,PyTorch epochs=250 decay=0.05,validation,0.5298601906906447,0.7299743088319458,0.26,0.92
+BMS-265246,B cells,PyTorch epochs=250 decay=0.05,validation,0.3485687057705043,0.37306202304051245,0.06,0.78
+BMS-265246,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.3617141929110087,0.32935600914195173,0.12,0.8
+Pomalidomide,B cells,PyTorch epochs=250 decay=0.05,validation,0.37127493629059416,0.2876047474893861,0.18,0.8
+Pomalidomide,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.30903646921328815,0.1803472861104375,0.04,0.68
+Dovitinib,B cells,PyTorch epochs=250 decay=0.05,validation,0.326416440344367,0.5357711193776064,0.36,0.98
+Dovitinib,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.35737223044552585,0.18230601291529566,0.14,0.66
+Navitoclax,B cells,PyTorch epochs=250 decay=0.05,validation,0.5825113163135557,0.15740278511550343,0.12,0.66
+Navitoclax,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.3032613266459406,0.08614806984850754,0.06,0.54
+Methotrexate,B cells,PyTorch epochs=250 decay=0.05,validation,0.2756833994684579,0.09729919376079818,0.12,0.58
+Methotrexate,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.24678895144984772,0.11811465752031668,0.14,0.76
+AMD-070 (hydrochloride),B cells,PyTorch epochs=250 decay=0.05,validation,0.3207212195131992,0.29480301378893203,0.2,0.74
+AMD-070 (hydrochloride),Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.25611569997425265,0.2550517750223441,0.32,0.72
+FK 866,B cells,PyTorch epochs=250 decay=0.05,validation,0.3492077456139733,0.2948686996749912,0.02,0.78
+FK 866,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.3317971406307022,0.3828863112122266,0.02,0.96
+Scriptaid,B cells,PyTorch epochs=250 decay=0.05,validation,0.39689510635017783,0.8094361067137876,0.5,1.0
+Scriptaid,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.5153618650605146,0.6281088766884163,0.32,0.96
+PF-04691502,B cells,PyTorch epochs=250 decay=0.05,validation,0.40057374939041374,0.6517088610459719,0.54,0.94
+Isoniazid,B cells,PyTorch epochs=250 decay=0.05,validation,0.3007840814768963,0.24178029819877384,0.0,0.6
+Isoniazid,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.23725944716021422,0.24321644847261684,0.2,0.74
+Quizartinib,B cells,PyTorch epochs=250 decay=0.05,validation,0.28651630033814496,0.16985994497450127,0.12,0.54
+Quizartinib,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.22549369652725448,0.39381381860661097,0.18,0.94
+PD-0325901,B cells,PyTorch epochs=250 decay=0.05,validation,0.3331948262715432,0.5169795266164912,0.34,0.9
+PD-0325901,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.43586090000997596,0.38455088110449187,0.22,0.78
+Riociguat,B cells,PyTorch epochs=250 decay=0.05,validation,0.2912000743244409,0.19485056176466825,0.12,0.64
+Riociguat,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.21633803431726004,0.14378368291738078,0.1,0.64
+BI-D1870,B cells,PyTorch epochs=250 decay=0.05,validation,0.3112529189871724,0.23773829550334818,0.06,0.56
+BI-D1870,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.2716273820352286,0.24340002034708583,0.1,0.54
+Azacitidine,B cells,PyTorch epochs=250 decay=0.05,validation,0.30946910912147507,0.2099993140547367,0.04,0.56
+Azacitidine,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.24177149662111821,0.1869177019539533,0.18,0.6
+TR-14035,B cells,PyTorch epochs=250 decay=0.05,validation,0.2969169590532586,0.39893992393445804,0.06,0.7
+TR-14035,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.24795792888320003,0.24488861194008502,0.16,0.56
+AT 7867,B cells,PyTorch epochs=250 decay=0.05,validation,0.2968476844044948,0.503520768400098,0.38,0.88
+AT 7867,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.3417247313978138,0.334247839765537,0.34,0.88
+GO-6976,B cells,PyTorch epochs=250 decay=0.05,validation,0.3379076989906797,0.30347855489929015,0.12,0.6
+GO-6976,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.3021810411502845,0.42720503374647756,0.18,0.74
+TGX 221,B cells,PyTorch epochs=250 decay=0.05,validation,0.29716823704601414,0.6187945268771703,0.3,0.96
+TGX 221,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.31479402770085346,0.4605340842384879,0.24,0.92
+Pitavastatin Calcium,B cells,PyTorch epochs=250 decay=0.05,validation,0.36623749351316504,0.5435050684351331,0.3,0.9
+Pitavastatin Calcium,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.6149347715543318,0.47730466778288083,0.28,0.88
+ABT737,B cells,PyTorch epochs=250 decay=0.05,validation,0.6825674512913804,0.10802079506302731,0.16,0.62
+ABT737,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.30019958845480377,0.11871013193457862,0.18,0.56
+PRT-062607,B cells,PyTorch epochs=250 decay=0.05,validation,0.35975527377155425,0.7323058841039637,0.64,0.96
+PRT-062607,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.46007323118958104,0.5430853873301291,0.24,0.94
+AZ628,B cells,PyTorch epochs=250 decay=0.05,validation,0.3214513942152933,0.6554014420160976,0.4,0.96
+AZ628,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.4055507303063071,0.3218372057429011,0.22,0.68
+Masitinib,B cells,PyTorch epochs=250 decay=0.05,validation,0.3049215244352009,0.4423743694853438,0.24,0.76
+Masitinib,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.2552208439321083,0.4127216518220067,0.42,0.82
+STK219801,B cells,PyTorch epochs=250 decay=0.05,validation,0.302842151084491,0.24147146948788278,0.06,0.56
+STK219801,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.2294038568359856,0.2692552733293763,0.18,0.76
+Ricolinostat,B cells,PyTorch epochs=250 decay=0.05,validation,0.3055181088642769,0.49440953632472506,0.38,0.82
+Ricolinostat,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.2755613394564842,0.46591468370322187,0.36,0.8
+Midostaurin,B cells,PyTorch epochs=250 decay=0.05,validation,0.3486892537857786,0.5474101061064063,0.36,0.92
+Midostaurin,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.38206578410556813,0.38819749332944165,0.46,0.8
+CEP-37440,B cells,PyTorch epochs=250 decay=0.05,validation,0.2909509274283923,0.4035347465541225,0.2,0.72
+CEP-37440,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.303386773422531,0.2056361991565275,0.14,0.54
+Oxybenzone,B cells,PyTorch epochs=250 decay=0.05,validation,0.2873666071842177,0.2774260918220904,0.18,0.6
+Oxybenzone,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.2416694975896502,0.20928844979717184,0.2,0.64
+Tivantinib,B cells,PyTorch epochs=250 decay=0.05,validation,0.3206932847340004,0.42935513025842337,0.18,0.72
+Tivantinib,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.2764337055444904,0.3492127238598638,0.3,0.84
+Colchicine,B cells,PyTorch epochs=250 decay=0.05,validation,0.464764948183897,0.3152728263879914,0.08,0.84
+Colchicine,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.7525975641088261,0.40838254919229233,0.16,0.84
+BX 912,B cells,PyTorch epochs=250 decay=0.05,validation,0.3349845550160708,0.48173852523749544,0.34,0.84
+BX 912,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.33672611873019054,0.34424687080641475,0.24,0.7
+Selumetinib,B cells,PyTorch epochs=250 decay=0.05,validation,0.33256869467587613,0.5035865438713534,0.18,0.84
+Selumetinib,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.345116661448756,0.4215345474371113,0.18,0.8
+RG7090,B cells,PyTorch epochs=250 decay=0.05,validation,0.3108804178629307,0.25263760371011096,0.12,0.64
+RG7090,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.24994730127079393,0.38195656627821145,0.06,0.84
+GLPG0634,B cells,PyTorch epochs=250 decay=0.05,validation,0.31892669820844577,0.6517991405251142,0.58,0.98
+GLPG0634,Myeloid cells,PyTorch epochs=250 decay=0.05,validation,0.30465934607336936,0.5906431758041016,0.58,1.0
+MK-5108,B cells,PyTorch epochs=100 decay=0.2,validation,0.29578008550356955,0.2419967078005038,0.22,0.72
+MK-5108,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.2414778488312052,0.23198186295483247,0.34,0.5
+Ganetespib (STA-9090),B cells,PyTorch epochs=100 decay=0.2,validation,0.6073314184470016,0.6952873431534126,0.42,1.0
+Ganetespib (STA-9090),Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.8043816926172164,0.507190148575162,0.32,0.92
+Sunitinib,B cells,PyTorch epochs=100 decay=0.2,validation,0.3542301217764913,0.36003463346843134,0.1,0.66
+Sunitinib,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.26726324629751,0.23955777313790452,0.2,0.8
+Tivozanib,B cells,PyTorch epochs=100 decay=0.2,validation,0.33580499664780616,0.393506927102649,0.18,0.78
+Tivozanib,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.24025166085819666,0.18783440732002546,0.08,0.64
+Tamatinib,B cells,PyTorch epochs=100 decay=0.2,validation,0.3629209911718145,0.7423633843848765,0.58,1.0
+Tamatinib,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.5548241572518677,0.6353273291602971,0.38,1.0
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,B cells,PyTorch epochs=100 decay=0.2,validation,0.38024778612634413,0.7467969404719377,0.56,0.98
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.6087311432295247,0.6174625161981089,0.32,0.94
+I-BET151,B cells,PyTorch epochs=100 decay=0.2,validation,0.45982882640656714,0.6424986778575157,0.36,1.0
+I-BET151,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.5058216904860929,0.5174172510906815,0.18,0.9
+GW843682X,B cells,PyTorch epochs=100 decay=0.2,validation,0.2753892982198113,0.3015989456035519,0.12,0.62
+GW843682X,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.22959238856396622,0.23270514890903427,0.24,0.54
+IN1451,B cells,PyTorch epochs=100 decay=0.2,validation,0.699658295761712,0.7179591952647367,0.28,0.98
+IN1451,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.716405785069015,0.6782963175998491,0.18,0.94
+Raloxifene,B cells,PyTorch epochs=100 decay=0.2,validation,0.32676874908192494,0.18461793031694682,0.06,0.54
+Raloxifene,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.285764858805202,0.31246879218728674,0.2,0.82
+Topotecan,B cells,PyTorch epochs=100 decay=0.2,validation,0.3365160576540336,0.2802552059518513,0.22,0.74
+Topotecan,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.37187764188230804,0.3123811767456033,0.18,0.86
+BAY 87-2243,B cells,PyTorch epochs=100 decay=0.2,validation,0.3551140729197796,0.5616254540260874,0.26,0.98
+BAY 87-2243,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.362348231847663,0.46665409130842145,0.16,0.84
+TL_HRAS26,B cells,PyTorch epochs=100 decay=0.2,validation,0.31145403818355344,0.27444115420237725,0.06,0.7
+TL_HRAS26,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.24385172279856335,0.11405782772381404,0.16,0.56
+Proscillaridin A;Proscillaridin-A,B cells,PyTorch epochs=100 decay=0.2,validation,0.5394747663161369,0.7264569787026428,0.24,0.92
+BMS-265246,B cells,PyTorch epochs=100 decay=0.2,validation,0.352160601017622,0.36844599559248836,0.08,0.76
+BMS-265246,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.35790986472336833,0.3421660793980791,0.08,0.78
+Pomalidomide,B cells,PyTorch epochs=100 decay=0.2,validation,0.3782937336512479,0.2645423767057508,0.14,0.74
+Pomalidomide,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.3112794648649453,0.17122645246426565,0.04,0.72
+Dovitinib,B cells,PyTorch epochs=100 decay=0.2,validation,0.32545427504203045,0.5385950793927184,0.34,0.96
+Dovitinib,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.3407375439166574,0.18971517182977998,0.18,0.64
+Navitoclax,B cells,PyTorch epochs=100 decay=0.2,validation,0.594170575319636,0.14674990469761942,0.1,0.62
+Navitoclax,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.3185600164166101,0.0734050648410257,0.06,0.56
+Methotrexate,B cells,PyTorch epochs=100 decay=0.2,validation,0.28516031277140036,0.07416080974093575,0.1,0.54
+Methotrexate,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.24146302815927967,0.14783227010518843,0.12,0.74
+AMD-070 (hydrochloride),B cells,PyTorch epochs=100 decay=0.2,validation,0.3206137244176075,0.28810059861991566,0.18,0.78
+AMD-070 (hydrochloride),Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.25401083887554676,0.2607421315497861,0.34,0.76
+FK 866,B cells,PyTorch epochs=100 decay=0.2,validation,0.3432122026069677,0.3093054762971026,0.04,0.8
+FK 866,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.32750671293051303,0.3822539767730671,0.02,0.98
+Scriptaid,B cells,PyTorch epochs=100 decay=0.2,validation,0.40143285776764637,0.8037919017176858,0.5,1.0
+Scriptaid,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.5375264689140189,0.6017066688822469,0.32,0.96
+PF-04691502,B cells,PyTorch epochs=100 decay=0.2,validation,0.41467618825354463,0.6180968611392545,0.52,0.94
+Isoniazid,B cells,PyTorch epochs=100 decay=0.2,validation,0.30149410528067416,0.24653985965850264,0.02,0.58
+Isoniazid,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.22629291589831796,0.25110016604024693,0.18,0.8
+Quizartinib,B cells,PyTorch epochs=100 decay=0.2,validation,0.2890719137479089,0.1718376038155588,0.12,0.5
+Quizartinib,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.22166435830664674,0.426961990703948,0.22,0.98
+PD-0325901,B cells,PyTorch epochs=100 decay=0.2,validation,0.33674746103747644,0.4877474967562133,0.3,0.86
+PD-0325901,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.4179713659230169,0.3717897753026899,0.22,0.78
+Riociguat,B cells,PyTorch epochs=100 decay=0.2,validation,0.29755487105720696,0.16304063441115327,0.18,0.6
+Riociguat,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.21931363579264856,0.12977871199524238,0.1,0.62
+BI-D1870,B cells,PyTorch epochs=100 decay=0.2,validation,0.31328002830527385,0.23478035779746906,0.08,0.56
+BI-D1870,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.27176162871584447,0.24574217254358136,0.08,0.54
+Azacitidine,B cells,PyTorch epochs=100 decay=0.2,validation,0.3057174236206194,0.2240042403014998,0.04,0.54
+Azacitidine,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.2321893304680019,0.2240470734809566,0.2,0.62
+TR-14035,B cells,PyTorch epochs=100 decay=0.2,validation,0.2933923722515164,0.4049711329412288,0.04,0.7
+TR-14035,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.23832902518172977,0.2567017309458634,0.14,0.56
+AT 7867,B cells,PyTorch epochs=100 decay=0.2,validation,0.28861025502883114,0.521926884945264,0.42,0.88
+AT 7867,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.32347813697215033,0.373612192783831,0.34,0.88
+GO-6976,B cells,PyTorch epochs=100 decay=0.2,validation,0.34912469816296227,0.2720260518278542,0.1,0.58
+GO-6976,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.31172390240028625,0.39850453009249115,0.18,0.72
+TGX 221,B cells,PyTorch epochs=100 decay=0.2,validation,0.2971230524766212,0.6101392565222514,0.26,0.98
+TGX 221,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.2865293614883139,0.46070032399978594,0.24,0.92
+Pitavastatin Calcium,B cells,PyTorch epochs=100 decay=0.2,validation,0.40145325884496447,0.4948541560732402,0.22,0.9
+Pitavastatin Calcium,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.6164790634217657,0.4785435503039492,0.28,0.92
+ABT737,B cells,PyTorch epochs=100 decay=0.2,validation,0.6882554313272747,0.11347885718996596,0.2,0.64
+ABT737,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.2984861973963249,0.07638616606196415,0.14,0.46
+PRT-062607,B cells,PyTorch epochs=100 decay=0.2,validation,0.3665153223496002,0.7256357014946517,0.64,0.94
+PRT-062607,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.45999345494964455,0.530978317319562,0.22,0.94
+AZ628,B cells,PyTorch epochs=100 decay=0.2,validation,0.324146331091278,0.6484947809583878,0.38,0.92
+AZ628,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.39553925748943886,0.32868203192055323,0.2,0.68
+Masitinib,B cells,PyTorch epochs=100 decay=0.2,validation,0.3020991491791247,0.4522123743698718,0.24,0.76
+Masitinib,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.23481631281170143,0.4489124524498079,0.48,0.82
+STK219801,B cells,PyTorch epochs=100 decay=0.2,validation,0.30326685370779816,0.2540903431501951,0.06,0.56
+STK219801,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.22540472192498734,0.26881425165774314,0.2,0.78
+Ricolinostat,B cells,PyTorch epochs=100 decay=0.2,validation,0.31112747227824344,0.4817425613405463,0.38,0.84
+Ricolinostat,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.27580767684096036,0.47960255390657286,0.36,0.84
+Midostaurin,B cells,PyTorch epochs=100 decay=0.2,validation,0.3488173210511422,0.5344314053333402,0.4,0.9
+Midostaurin,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.3518378956983141,0.4145627209214618,0.5,0.8
+CEP-37440,B cells,PyTorch epochs=100 decay=0.2,validation,0.28613946810897156,0.41493357633946704,0.2,0.76
+CEP-37440,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.28100009272785925,0.21842374292111738,0.16,0.5
+Oxybenzone,B cells,PyTorch epochs=100 decay=0.2,validation,0.288630215408482,0.2740075237331361,0.16,0.62
+Oxybenzone,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.2342626532179849,0.21231354235638705,0.22,0.62
+Tivantinib,B cells,PyTorch epochs=100 decay=0.2,validation,0.32074775342261325,0.43440908792510563,0.18,0.72
+Tivantinib,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.2706743836104266,0.3568388624254052,0.34,0.84
+Colchicine,B cells,PyTorch epochs=100 decay=0.2,validation,0.4742408229747345,0.26326898372645063,0.08,0.8
+Colchicine,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.7517660320635934,0.4326117992882923,0.2,0.84
+BX 912,B cells,PyTorch epochs=100 decay=0.2,validation,0.3315834611122867,0.47897350932262656,0.36,0.8
+BX 912,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.31474582374074844,0.3473585994130983,0.26,0.7
+Selumetinib,B cells,PyTorch epochs=100 decay=0.2,validation,0.33613651508584624,0.484869383659774,0.16,0.82
+Selumetinib,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.3379205754523853,0.4199259913307528,0.2,0.82
+RG7090,B cells,PyTorch epochs=100 decay=0.2,validation,0.30974371967922376,0.2579805195379912,0.12,0.64
+RG7090,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.24603411151019575,0.40404253572161564,0.06,0.92
+GLPG0634,B cells,PyTorch epochs=100 decay=0.2,validation,0.3183781978154138,0.6488360346461546,0.58,0.98
+GLPG0634,Myeloid cells,PyTorch epochs=100 decay=0.2,validation,0.2907925476637501,0.6018927790544863,0.58,1.0
+MK-5108,B cells,PyTorch epochs=250 decay=0.2,validation,0.2933384163860721,0.2409909906227912,0.22,0.7
+MK-5108,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.2419783245364006,0.2295478130568228,0.32,0.54
+Ganetespib (STA-9090),B cells,PyTorch epochs=250 decay=0.2,validation,0.6060614980035447,0.7003073329861657,0.42,1.0
+Ganetespib (STA-9090),Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.7984674123926707,0.5267978531110319,0.32,0.96
+Sunitinib,B cells,PyTorch epochs=250 decay=0.2,validation,0.35110748808920594,0.3776283200145106,0.1,0.66
+Sunitinib,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.2832194106891564,0.23299796276154439,0.24,0.8
+Tivozanib,B cells,PyTorch epochs=250 decay=0.2,validation,0.33457129878355313,0.4012729503651877,0.18,0.78
+Tivozanib,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.2395988597792487,0.17558344621415434,0.06,0.68
+Tamatinib,B cells,PyTorch epochs=250 decay=0.2,validation,0.35053885084200775,0.7615531812815758,0.64,1.0
+Tamatinib,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.545345050126262,0.64164106862224,0.42,1.0
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,B cells,PyTorch epochs=250 decay=0.2,validation,0.37064288123058386,0.7542832805800858,0.54,1.0
+5-(9-Isopropyl-8-methyl-2-morpholino-9H-purin-6-yl)pyrimidin-2-amine,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.5962692857347069,0.6224626539808469,0.34,0.92
+I-BET151,B cells,PyTorch epochs=250 decay=0.2,validation,0.4584892759572983,0.6463873139351869,0.36,1.0
+I-BET151,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.5071804545795573,0.519720732853504,0.14,0.92
+GW843682X,B cells,PyTorch epochs=250 decay=0.2,validation,0.2768949218593598,0.30952316297216925,0.08,0.62
+GW843682X,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.2410901516866357,0.22826013655398783,0.22,0.58
+IN1451,B cells,PyTorch epochs=250 decay=0.2,validation,0.6934183289088739,0.7363531162255846,0.26,0.98
+IN1451,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.7218712230962399,0.6792871968172682,0.2,0.96
+Raloxifene,B cells,PyTorch epochs=250 decay=0.2,validation,0.32230224400749824,0.20050230376283149,0.06,0.54
+Raloxifene,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.28230738330248845,0.31517571535691774,0.16,0.82
+Topotecan,B cells,PyTorch epochs=250 decay=0.2,validation,0.332081342826,0.28685800710579173,0.18,0.78
+Topotecan,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.3789781519401661,0.3148932622665138,0.18,0.88
+BAY 87-2243,B cells,PyTorch epochs=250 decay=0.2,validation,0.3552582468472165,0.5695131223536201,0.34,0.96
+BAY 87-2243,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.387562112165793,0.48233028587444543,0.16,0.84
+TL_HRAS26,B cells,PyTorch epochs=250 decay=0.2,validation,0.3089123350561874,0.2897530960504966,0.08,0.72
+TL_HRAS26,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.251813282420214,0.11259226535533412,0.16,0.56
+Proscillaridin A;Proscillaridin-A,B cells,PyTorch epochs=250 decay=0.2,validation,0.5214630561734264,0.7319763134502545,0.28,0.92
+BMS-265246,B cells,PyTorch epochs=250 decay=0.2,validation,0.34903764769921686,0.371590395098398,0.06,0.78
+BMS-265246,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.3612048020439643,0.3282971410049868,0.08,0.8
+Pomalidomide,B cells,PyTorch epochs=250 decay=0.2,validation,0.37291800553795473,0.27833425634335734,0.14,0.74
+Pomalidomide,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.31001737127805995,0.1742246876239717,0.06,0.7
+Dovitinib,B cells,PyTorch epochs=250 decay=0.2,validation,0.32479255163165044,0.5379834691104348,0.34,0.98
+Dovitinib,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.35447868537910965,0.1848906541336951,0.14,0.68
+Navitoclax,B cells,PyTorch epochs=250 decay=0.2,validation,0.5850316859074755,0.14448042358801397,0.12,0.64
+Navitoclax,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.30574243533883244,0.07154591286136759,0.06,0.5
+Methotrexate,B cells,PyTorch epochs=250 decay=0.2,validation,0.27973347993937364,0.06839716055596669,0.08,0.54
+Methotrexate,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.2475064287010997,0.1159943524889795,0.12,0.78
+AMD-070 (hydrochloride),B cells,PyTorch epochs=250 decay=0.2,validation,0.3208062023210663,0.29549811818228544,0.2,0.74
+AMD-070 (hydrochloride),Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.2581180258257763,0.25214651763024454,0.32,0.78
+FK 866,B cells,PyTorch epochs=250 decay=0.2,validation,0.34803974070792587,0.3018126793977215,0.02,0.78
+FK 866,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.3324737566066854,0.3794824828639804,0.02,0.98
+Scriptaid,B cells,PyTorch epochs=250 decay=0.2,validation,0.396697152424217,0.8088867948076987,0.52,1.0
+Scriptaid,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.5166732111131532,0.6254989372390642,0.32,0.96
+PF-04691502,B cells,PyTorch epochs=250 decay=0.2,validation,0.40166501129558035,0.6495678469349994,0.52,0.94
+Isoniazid,B cells,PyTorch epochs=250 decay=0.2,validation,0.30103164290167683,0.24192752827650443,0.0,0.6
+Isoniazid,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.23726187008812136,0.23745927060680147,0.2,0.74
+Quizartinib,B cells,PyTorch epochs=250 decay=0.2,validation,0.28811359324371505,0.1736098424834663,0.12,0.54
+Quizartinib,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.22554504453225643,0.40458790327079686,0.18,0.94
+PD-0325901,B cells,PyTorch epochs=250 decay=0.2,validation,0.3316574410949493,0.515957190873619,0.34,0.9
+PD-0325901,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.4325741271678757,0.3847330297574708,0.2,0.78
+Riociguat,B cells,PyTorch epochs=250 decay=0.2,validation,0.29141182190485304,0.19274528993260412,0.12,0.64
+Riociguat,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.21780836232976172,0.13831014609291936,0.1,0.62
+BI-D1870,B cells,PyTorch epochs=250 decay=0.2,validation,0.31124079861372056,0.2380514907708438,0.06,0.58
+BI-D1870,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.2735492904396314,0.2357696742128698,0.1,0.56
+Azacitidine,B cells,PyTorch epochs=250 decay=0.2,validation,0.30767725870909285,0.21268988937928415,0.04,0.56
+Azacitidine,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.24413955729124645,0.18317507635051053,0.16,0.6
+TR-14035,B cells,PyTorch epochs=250 decay=0.2,validation,0.2961049904032518,0.3974152365604456,0.06,0.7
+TR-14035,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.247120967948409,0.2440591009660444,0.14,0.56
+AT 7867,B cells,PyTorch epochs=250 decay=0.2,validation,0.29485404874744675,0.5050920228644572,0.4,0.88
+AT 7867,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.3379859784519621,0.3368887940910445,0.34,0.88
+GO-6976,B cells,PyTorch epochs=250 decay=0.2,validation,0.3384205797348086,0.3021375454559474,0.12,0.62
+GO-6976,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.30341597311039936,0.4207963030858086,0.18,0.74
+TGX 221,B cells,PyTorch epochs=250 decay=0.2,validation,0.2952011940157135,0.6195957680704356,0.3,0.96
+TGX 221,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.3097506772808366,0.459757984665281,0.24,0.92
+Pitavastatin Calcium,B cells,PyTorch epochs=250 decay=0.2,validation,0.3651883910701829,0.5367310147025818,0.28,0.9
+Pitavastatin Calcium,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.6165123960533048,0.47409661347338455,0.28,0.86
+ABT737,B cells,PyTorch epochs=250 decay=0.2,validation,0.6838401605524868,0.09734278210142122,0.16,0.62
+ABT737,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.2992615160152821,0.11877965680620862,0.18,0.54
+PRT-062607,B cells,PyTorch epochs=250 decay=0.2,validation,0.3611055578133682,0.7319606943993262,0.64,0.96
+PRT-062607,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.4584298296296298,0.5427273407720931,0.26,0.94
+AZ628,B cells,PyTorch epochs=250 decay=0.2,validation,0.32122952753803824,0.6558730518002411,0.4,0.96
+AZ628,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.40276895760674875,0.3221123130832784,0.2,0.66
+Masitinib,B cells,PyTorch epochs=250 decay=0.2,validation,0.30428925391079154,0.44088270528596324,0.24,0.76
+Masitinib,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.25379351173387193,0.4081279830055085,0.42,0.82
+STK219801,B cells,PyTorch epochs=250 decay=0.2,validation,0.3030012499166483,0.2409206799471658,0.06,0.54
+STK219801,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.23247080316901794,0.26721217386928053,0.16,0.76
+Ricolinostat,B cells,PyTorch epochs=250 decay=0.2,validation,0.3054029035127689,0.49339157674806955,0.38,0.82
+Ricolinostat,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.2780600068612384,0.4615855509308795,0.36,0.82
+Midostaurin,B cells,PyTorch epochs=250 decay=0.2,validation,0.3475771486621884,0.5455421709692185,0.36,0.92
+Midostaurin,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.37728650086269283,0.38523294998647345,0.46,0.8
+CEP-37440,B cells,PyTorch epochs=250 decay=0.2,validation,0.28992909075372975,0.40674330026118466,0.18,0.74
+CEP-37440,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.3024505639367197,0.20818031097038814,0.14,0.56
+Oxybenzone,B cells,PyTorch epochs=250 decay=0.2,validation,0.2881348218800152,0.271866474064498,0.18,0.62
+Oxybenzone,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.2429645070819345,0.19842237487677752,0.18,0.64
+Tivantinib,B cells,PyTorch epochs=250 decay=0.2,validation,0.3208995167696423,0.42690929471654887,0.18,0.72
+Tivantinib,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.2767373778337708,0.3462260029756219,0.32,0.84
+Colchicine,B cells,PyTorch epochs=250 decay=0.2,validation,0.46429987844695647,0.31525866790825224,0.08,0.84
+Colchicine,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.7559849354366548,0.40231280908308115,0.16,0.8
+BX 912,B cells,PyTorch epochs=250 decay=0.2,validation,0.3320927937248015,0.4806835779338365,0.34,0.84
+BX 912,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.3320067993876784,0.34405359525052887,0.24,0.72
+Selumetinib,B cells,PyTorch epochs=250 decay=0.2,validation,0.3327104142245987,0.5023902309143686,0.18,0.84
+Selumetinib,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.34448800694577647,0.42508810097637495,0.18,0.8
+RG7090,B cells,PyTorch epochs=250 decay=0.2,validation,0.3105483499794687,0.25259830544013434,0.14,0.64
+RG7090,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.24888796244053762,0.38339713627873706,0.06,0.84
+GLPG0634,B cells,PyTorch epochs=250 decay=0.2,validation,0.3181127699166928,0.651448189539555,0.58,0.98
+GLPG0634,Myeloid cells,PyTorch epochs=250 decay=0.2,validation,0.30159444067170615,0.588932566764136,0.56,1.0

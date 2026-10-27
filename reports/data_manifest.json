@@ -1,0 +1,10 @@
+{
+  "de_train.h5ad": {
+    "url": "https://openproblems-bio.s3.amazonaws.com/public/neurips-2023-competition/workflow-resources/neurips-2023-data/de_train.h5ad",
+    "sha256": "532d0ffa616233ba571d2300813cffc8bcdd0f83a78de7119cb229df8334e375"
+  },
+  "de_test.h5ad": {
+    "url": "https://openproblems-bio.s3.amazonaws.com/public/neurips-2023-competition/workflow-resources/neurips-2023-data/de_test.h5ad",
+    "sha256": "5746d870d61e453b8b404b512dbe310b961f38f1a5b5ca1c67ca243d673e868d"
+  }
+}

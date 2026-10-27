@@ -1,0 +1,33 @@
+{
+  "ridge": {
+    "alpha": 10.0
+  },
+  "pca_ridge": {
+    "alpha": 1.0,
+    "n_components": 24
+  },
+  "torch": {
+    "epochs": 100,
+    "weight_decay": 0.2
+  },
+  "criterion": "mean validation profile RMSE",
+  "plan_sha256": "3b55d332ba86a380fc10c23486ce5d018787ebcdf99c9dfbe89e52b3752602e7",
+  "n_training": 306,
+  "n_validation": 96,
+  "validation_means": {
+    "Drug mean": 0.41349988195825776,
+    "No change": 0.38928406564569235,
+    "PCA ridge alpha=0.1": 0.35631256961954566,
+    "PCA ridge alpha=1.0": 0.3500026378140318,
+    "PCA ridge alpha=10.0": 0.3644842991638051,
+    "PCA ridge alpha=100.0": 0.37962850438499446,
+    "PyTorch epochs=100 decay=0.05": 0.35768258472438147,
+    "PyTorch epochs=100 decay=0.2": 0.3572447074841318,
+    "PyTorch epochs=250 decay=0.05": 0.35855214257869017,
+    "PyTorch epochs=250 decay=0.2": 0.35804815253666855,
+    "Ridge alpha=0.1": 0.40059565397045643,
+    "Ridge alpha=1.0": 0.36971356234088865,
+    "Ridge alpha=10.0": 0.36203260589514913,
+    "Ridge alpha=100.0": 0.3783666589315384
+  }
+}
